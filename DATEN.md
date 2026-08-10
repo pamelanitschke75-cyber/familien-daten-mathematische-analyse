@@ -85,3 +85,25 @@ Für sämtliche Berechnungen ab Version 1.0 gelten ausschließlich die korrigier
 ---
 
 Diese Datei dokumentiert ausschließlich die Ausgangsdaten. Mathematische Berechnungen und Interpretationen werden getrennt geführt.
+
+## Zeitlicher Bezugswert der Untersuchung
+
+Für zeitabhängige Vergleichsrechnungen wird das Kalenderjahr verwendet,
+in dem die Untersuchung durchgeführt wurde.
+
+Für Version 1.0 ist dies:
+
+`2026`
+
+Der Wert `2026` stammt nicht aus den Familiendaten und besitzt keine
+vorab angenommene besondere Bedeutung. Er bezeichnet ausschließlich
+das aktuelle Kalenderjahr der Untersuchung.
+
+Daraus kann beispielsweise die zeitabhängige Differenz
+
+`2026 - 1911 = 115`
+
+berechnet werden.
+
+Die Zahl `115` ist damit ein Ergebnis dieser auf das Jahr 2026 bezogenen
+Differenz und kein unveränderlicher Bestandteil des Ausgangswerts `1911`.
