@@ -80,4 +80,71 @@ Für mögliche geografische Vergleiche gelten folgende Regeln:
 
 - Koordinaten werden nicht nachträglich verändert, damit sie zu einem Ergebnis passen.
 - Zahlen werden nicht ergänzt, entfernt oder umgestellt, sofern eine solche Operation nicht zuvor eindeutig als Untersuchungsmethode definiert wurde.
-- Nord/Süd beziehungsweise
+- Nord/Süd beziehungsweise Ost/West werden nicht allein aus einem Zahlenwert abgeleitet.
+- Grad-, Minuten- und Sekundenangaben werden voneinander unterschieden.
+- Dezimalgrad und Grad-Minuten-Sekunden-Darstellung werden nicht ohne dokumentierte Umrechnung vermischt.
+- Ein geografischer Treffer wird nicht allein aufgrund einer ungefähren Nähe als Übereinstimmung bezeichnet.
+- Vergleichsorte und verwendete Koordinatenquellen sollen nachvollziehbar dokumentiert werden.
+
+---
+
+## 5. Prüfstufen
+
+Mögliche Koordinatenbezüge werden in drei Stufen eingeordnet.
+
+### Stufe A – rechnerisches Ergebnis
+
+Es liegt ausschließlich ein mathematisch reproduzierbarer Zahlenwert vor.
+
+### Stufe B – numerischer geografischer Vergleich
+
+Der Zahlenwert kann mit einem Bestandteil einer realen geografischen Koordinate verglichen werden.
+
+Dies stellt zunächst nur eine numerische Übereinstimmung dar.
+
+### Stufe C – unabhängig gestützter Bezug
+
+Zusätzlich zum numerischen Vergleich existieren weitere unabhängig überprüfbare Informationen, die einen geografischen Zusammenhang begründen könnten.
+
+Erst solche zusätzlichen Hinweise können zur weiteren Prüfung einer Hypothese herangezogen werden.
+
+---
+
+## 6. Abgrenzung zu Hypothesen
+
+Diese Datei dokumentiert die mathematische und geografische Prüfung.
+
+Weitergehende Aussagen über die mögliche Bedeutung eines Ortes gehören in `HYPOTHESEN.MD`.
+
+Insbesondere wird aus einer Koordinatenübereinstimmung allein keine Aussage über Personen, Ereignisse, Ursachen oder Zusammenhänge abgeleitet.
+
+---
+
+## 7. Reproduzierbarkeit
+
+Für jeden aufgenommenen Koordinatenvergleich sollen mindestens dokumentiert werden:
+
+- verwendeter Ausgangswert
+- verwendete Berechnung
+- mathematisches Ergebnis
+- verwendetes Koordinatenformat
+- geografischer Vergleichswert
+- Quelle des geografischen Vergleichswerts
+- Ergebnis der Prüfung
+- Prüfstufe
+
+Dadurch soll eine unabhängige Person den Vergleich nachvollziehen und überprüfen können.
+
+---
+
+## Status
+
+**Koordinatenprüfung:** Version 1.0  
+**Ausgangsdaten:** `DATEN.md`  
+**Methodik:** `METHODIK.md`  
+**Berechnungen:** `BERECHNUNGEN.md`  
+**Interpretationen:** `HYPOTHESEN.MD`
+
+---
+
+Diese Datei trennt mathematische Ergebnisse, geografische Vergleiche und weitergehende Hypothesen voneinander.
