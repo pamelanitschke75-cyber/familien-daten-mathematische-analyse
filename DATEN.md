@@ -62,17 +62,6 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 6. Berechnete Werte gehören nicht in diese Ausgangstabelle, sondern in `BERECHNUNGEN.md`.
 7. Mögliche Bedeutungen oder Interpretationen gehören nicht in diese Datei.
 
-## Korrekturen vor Festschreibung von Version 1.0
-
-Vor der endgültigen Festschreibung des Ausgangsdatensatzes wurden zwei Angaben zu Steffis Großeltern korrigiert:
-
-- KH: zuvor `10.12.1937`, korrigiert auf `23.03.1937`
-- WH: zuvor `12.04.1938`, korrigiert auf `12.04.1937`
-
-Für sämtliche Berechnungen ab Version 1.0 gelten ausschließlich die korrigierten Werte:
-
-- `23031937 | KH`
-- `12041937 | WH`
 
 ## Datenstand
 
