@@ -8,6 +8,15 @@ Das Material wird zunächst unabhängig von bereits bekannten Ergebnissen erfass
 
 ## Prüfmaterial 01 – handschriftlicher Zettel
 
+
+Auf dem vorliegenden Foto sind folgende sechs handschriftliche Zahlen erkennbar:
+
+15, 27, 48, 14, 37, 11
+
+Die Reihenfolge entspricht der Anordnung auf dem fotografierten Zettel von links nach rechts.
+
+Diese Transkription enthält noch keine mathematische Interpretation oder Zuordnung zu externen Referenzwerten.
+
 ### Herkunft
 
 Handschriftliche Notiz, die vor der späteren systematischen Auswertung und dem Koordinatenvergleich angefertigt wurde.
