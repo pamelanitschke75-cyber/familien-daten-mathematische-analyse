@@ -66,30 +66,37 @@ Eine mögliche geografische Interpretation der Zahl 115 wird getrennt in `KOORDI
 ## Auffällige Wiederholungen
 
 ### mod 64
-
-- `02041907 | EN → 51`
-- `12081965 | GWKK → 45`
-- `08101997 | SRH → 45`
-- `02091963 | KRH → 59`
-- `10102011 | MLH → 59`
-- `16051978 | FS → 10`
-- `22091978 | SBH → 10`
-- `18031975 | PCN → 39`
-- `13082023 → 39`
-- `15082023 → 39`
+02041907 | N03 → 51
+12081965 | N12 → 45
+08101997 | N02 → 45
+02091963 | N11 → 59
+10102011 | N20 → 59
+16051978 | N13 → 10
+22091978 | N14 → 10
+18031975 | N01 → 39
+13082023 → 39
+15082023 → 39
 
 ### mod 51
 
-- Wert `22`: `09051910 | EN`
-- Wert `25`: `05081920 | RW` und `29052022 | NH`
-- Wert `28`: `19111921 | GW` und `24082024 | MH`
-- Wert `21`: `12041937 | WH` und `25021998 | DVS`
+- Wert `22`: `09051910 | N04`
+- Wert `25`: `05081920 | N05` und `29052022 | N22`
+- Wert `28`: `19111921 | N06` und `24082024 | N23`
+- Wert `21`: `12041937 | N08` und `25021998 | N19`
 
 ### Weitere direkte Wiederholungen
 
-- Ziffernsumme `37`: `16051978 | FS` und `16061986 | ES`
-- Jahresziffernsumme `20`: `23031937 | KH`, `12041937 | WH`, `04061982 | VV`
-- Tag×Monat `80`: `16051978 | FS`, `08101997 | SRH`, `20041968`
+- Ziffernsumme `37`: `16051978 | N13` und `16061986 | N17`
+- Jahresziffernsumme `20`: `23031937 | N07`, `12041937 | N08`, `04061982 | N15`
+- Tag×Monat `80`: `16051978 | N13`, `08101997 | N02`, `20041968`
+
+## Hinweis
+
+Diese Datei enthält ausschließlich mathematische Berechnungen und direkt beobachtbare Wiederholungen.
+
+Eine Interpretation dieser Ergebnisse wird getrennt dokumentiert.
+
+---
 
 ## Hinweis
 
