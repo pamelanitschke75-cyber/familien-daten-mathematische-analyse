@@ -60,7 +60,7 @@ Eine mathematisch korrekte Übereinstimmung ist zunächst ausschließlich ein re
 
 Eine darüber hinausgehende Bedeutung – beispielsweise eine Verbindung zu einem geografischen Ort, einer Koordinate, einem Ereignis oder einem Gegenstand – wird getrennt als Hypothese behandelt.
 
-Eine Hypothese gilt nicht allein deshalb als bewiesen, weil einzelne Zahlen mit ihr übereinstimmen.
+Numerische Übereinstimmungen werden als Beobachtungen dokumentiert. Ob sie die Hypothese stützen und welche Bedeutung sie besitzen, wird anhand weiterer unabhängig überprüfbarer Hinweise untersucht.
 
 ## Projektstruktur
 
@@ -78,7 +78,7 @@ Die Dokumentation wird in folgende Dateien gegliedert:
 
 ## Datenschutz und Nutzung
 
-Die zugrunde liegenden Daten stammen teilweise aus einem privaten familiären Zusammenhang.
+Die zugrunde liegenden Daten stammen aus einem privaten familiären Zusammenhang.
 
 Das Repository wird deshalb während der Untersuchung privat geführt.
 
