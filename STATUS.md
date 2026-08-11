@@ -1,4 +1,4 @@
- Projektstatus
+# Projektstatus
 
 ## Version 1.0
 
@@ -24,11 +24,12 @@ Version 1.0 umfasst:
 - `DATEN.md` – festgelegte Ausgangsdaten und Referenzwerte
 - `METHODIK.md` – verwendete mathematische Verfahren
 - `BERECHNUNGEN.md` – nachvollziehbare Einzelberechnungen
-- `ERGEBNISSE.md` – Zusammenfassung der Ergebnisse
+- `ERGEBNISSE.md` – Zusammenfassung der mathematischen Ergebnisse
 - `KOORDINATEN.md` – getrennte geografische Vergleichsprüfung
-- `HYPOTHESEN.md` – offene Fragen und weiter zu prüfende Zusammenhänge
+- `HYPOTHESEN.MD` – offene Fragen und weiter zu prüfende Zusammenhänge
+- `PRUEFMATERIAL.md` – zusätzliches, getrennt dokumentiertes Prüfmaterial
 - `CHANGELOG.md` – dokumentierte Änderungen und Datenkorrekturen
-- `RECHTE.md` – Rechte, Nutzung und Projektzweck
+- `RECHTE.md` – Rechte, Nutzung und verantwortungsvoller Umgang
 - `STATUS.md` – aktueller Stand des Projekts
 
 ---
@@ -37,7 +38,7 @@ Version 1.0 umfasst:
 
 Die für Version 1.0 verwendeten Ausgangsdaten befinden sich in `DATEN.md`.
 
-Bekannte Korrekturen wurden im `CHANGELOG.md` dokumentiert.
+Nachweisbare Korrekturen werden im `CHANGELOG.md` dokumentiert.
 
 Für zeitabhängige Vergleichsrechnungen wurde für Version 1.0 das Kalenderjahr `2026` als Bezugsjahr der Untersuchung festgelegt.
 
@@ -49,6 +50,8 @@ Es handelt sich dabei nicht um einen aus den Familiendaten gewonnenen Wert.
 
 Die in Version 1.0 verwendeten Rechenverfahren wurden in `METHODIK.md` festgehalten.
 
+Die vollständigen Berechnungen befinden sich in `BERECHNUNGEN.md`.
+
 Berechnete Werte werden von ihrer möglichen Interpretation getrennt dokumentiert.
 
 Ein mathematisches Ergebnis bleibt dabei auch dann ein mathematisches Ergebnis, wenn seine weitergehende Bedeutung noch ungeklärt ist.
@@ -57,42 +60,77 @@ Ein mathematisches Ergebnis bleibt dabei auch dann ein mathematisches Ergebnis, 
 
 ## 5. Geografischer Vergleich
 
-Ein Teil der Untersuchung beschäftigt sich mit möglichen numerischen Übereinstimmungen mit geografischen Referenzwerten im Bereich Area 51 / Groom Lake.
+Ein Teil der Untersuchung beschäftigt sich mit möglichen numerischen Übereinstimmungen mit geografischen Referenzwerten.
 
-Diese Vergleiche befinden sich getrennt in `KOORDINATEN.md`.
+Diese Prüfungen werden getrennt in `KOORDINATEN.md` dokumentiert.
 
 Die Dokumentation unterscheidet zwischen:
 
 - vorhandenen Ausgangsdaten,
 - reproduzierbaren Berechnungen,
 - beobachteten numerischen Übereinstimmungen,
+- geografischen Vergleichen,
 - und daraus entstandenen Hypothesen.
 
-Damit können Leser die Berechnungen selbst nachvollziehen und die Interpretation unabhängig beurteilen.
+Ein numerischer geografischer Vergleich gilt für sich allein nicht als Nachweis eines tatsächlichen Zusammenhangs.
 
 ---
 
-## 6. Bezug zu MH370
+## 6. Bezug zu Area 51 / Groom Lake
 
-Ein Hintergrund der Untersuchung sind offene Fragen im Zusammenhang mit Malaysia-Airlines-Flug MH370.
+Im Rahmen der Untersuchung werden mögliche numerische Bezüge zu geografischen Referenzwerten im Bereich Area 51 / Groom Lake geprüft.
+
+Die mathematische Berechnung und der geografische Vergleich werden getrennt von einer möglichen Interpretation dokumentiert.
+
+Ob eine numerische Übereinstimmung eine darüber hinausgehende Bedeutung besitzt, muss anhand zusätzlicher und unabhängig überprüfbarer Informationen untersucht werden.
+
+---
+
+## 7. Bezug zu MH370
+
+Ein Hintergrund der Untersuchung sind offene Fragen im Zusammenhang mit Malaysia-Airlines-Flug MH370 und den Menschen an Bord.
 
 Die mathematischen Beobachtungen und geografischen Vergleiche werden weiter untersucht.
 
-Ob daraus ein Zusammenhang mit MH370, seinem Aufenthaltsort oder einem Flugschreiber abgeleitet werden kann, soll anhand zusätzlicher und unabhängig überprüfbarer Belege geprüft werden.
+Ob daraus ein Zusammenhang mit MH370, seinem Aufenthaltsort oder einem Flugschreiber abgeleitet werden kann, muss anhand zusätzlicher und unabhängig überprüfbarer Belege geprüft werden.
+
+Bis dahin werden entsprechende Zusammenhänge ausschließlich als Hypothesen behandelt.
 
 ---
 
-## 7. Noch nicht Bestandteil von Version 1.0
+## 8. Zusätzliches Prüfmaterial
 
-Zusätzliche handschriftliche Notizen und weitere mögliche Zahlenbezüge wurden bewusst nicht nachträglich in die festgelegte mathematische Ausgangsbasis von Version 1.0 aufgenommen.
+Zusätzliches Material, das nicht Bestandteil der ursprünglichen mathematischen Ausgangsbasis von Version 1.0 war, wird getrennt in `PRUEFMATERIAL.md` dokumentiert.
 
-Sie können später als separates Prüfmaterial untersucht und dokumentiert werden.
+Dazu gehört derzeit eine handschriftliche Notiz mit den dokumentierten Rohwerten:
 
-Damit soll vermieden werden, nachträglich zusätzliche Werte oder Rechenwege mit der bestehenden Untersuchung zu vermischen.
+`15, 27, 48, 14, 37, 11`
+
+Die Rohwerte werden nicht nachträglich in die ursprünglichen Ausgangsdaten von Version 1.0 eingefügt.
+
+Ihre mathematische Auswertung und ein möglicher Vergleich mit externen Referenzdaten erfolgen getrennt.
+
+Zusätzlich kann dort dokumentiert werden, welche Aussagen oder Erinnerungen zum zeitlichen Ablauf der Entstehung des Prüfmaterials vorliegen.
+
+Solche Aussagen werden getrennt von mathematischen Ergebnissen und extern überprüfbaren Tatsachen behandelt.
 
 ---
 
-## 8. Grundsatz für weitere Untersuchungen
+## 9. Offene Prüfungen
+
+Zum derzeitigen Stand sind unter anderem folgende Prüfungen noch offen:
+
+- Auswertung des zusätzlichen Prüfmaterials
+- Vergleich der dokumentierten Rohwerte mit externen Referenzdaten nach vorher festgelegter Prüfregel
+- Prüfung des Referenzwerts `115` im historischen Brief
+- weitere unabhängige Überprüfung möglicher geografischer Bezüge
+- Suche nach zusätzlichen, von den mathematischen Berechnungen unabhängigen Belegen
+
+Offene Prüfungen werden nicht als bestätigte Ergebnisse dargestellt.
+
+---
+
+## 10. Grundsatz für weitere Untersuchungen
 
 Für weitere Prüfungen gilt:
 
@@ -102,19 +140,9 @@ Für weitere Prüfungen gilt:
 4. Neue Rechenverfahren werden ausdrücklich als solche dokumentiert.
 5. Treffer und Nicht-Treffer werden gleichermaßen berücksichtigt.
 6. Berechnung, Beobachtung und Interpretation bleiben voneinander getrennt.
+7. Zusätzliches Prüfmaterial bleibt von der ursprünglichen Ausgangsbasis unterscheidbar.
+8. Hypothesen werden erst dann als bestätigt behandelt, wenn ausreichende unabhängige Belege vorliegen.
 
 ---
 
 ## Status Version 1.0
-
-**Ausgangsdaten:** dokumentiert  
-**Methodik:** dokumentiert  
-**Berechnungen:** dokumentiert  
-**Ergebnisse:** dokumentiert  
-**Koordinatenvergleich:** dokumentiert  
-**Hypothesen:** dokumentiert  
-**Änderungsprotokoll:** vorhanden  
-**Rechte und Nutzung:** dokumentiert  
-**Zusätzliches Prüfmaterial:** bewusst zurückgestellt
-
-Version 1.0 bildet damit die dokumentierte Grundlage für alle weiteren Untersuchungen.
