@@ -6,6 +6,24 @@ Diese Datei dokumentiert zusätzliches Material, das nicht Bestandteil der urspr
 
 Das Material wird zunächst unabhängig von bereits bekannten Ergebnissen erfasst. Eine spätere mathematische Prüfung oder Interpretation erfolgt getrennt.
 
+## Prüfung 01 – Vergleich mit externen Referenzdaten
+
+### Fragestellung
+
+Es wird geprüft, ob und in welcher Form die sechs zuvor dokumentierten Rohwerte
+
+15, 27, 48, 14, 37, 11
+
+mit den separat dokumentierten Referenzdaten übereinstimmen.
+
+### Prüfregel
+
+Die Vergleichsregel wird vor der Auswertung eindeutig festgelegt. Es werden keine Rechenoperationen oder Umformungen nachträglich ausgewählt, nur weil sie zu einer Übereinstimmung führen.
+
+### Ergebnis
+
+Noch nicht eingetragen.
+
 ## Prüfmaterial 01 – handschriftlicher Zettel
 
 
