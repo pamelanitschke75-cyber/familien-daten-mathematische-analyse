@@ -1,4 +1,8 @@
-## Zweck und verantwortungsvoller Umgang
+# Rechte, Nutzung und verantwortungsvoller Umgang
+
+## Version 1.0
+
+## 1. Zweck und verantwortungsvoller Umgang
 
 Dieses Projekt verfolgt das Ziel, vorhandene Daten, mathematische
 Beobachtungen und daraus entstandene Hypothesen nachvollziehbar zu
@@ -17,49 +21,78 @@ Das Projekt unterscheidet ausdrücklich zwischen:
 - nachprüfbaren Ausgangsdaten,
 - reproduzierbaren mathematischen Ergebnissen,
 - extern belegten Tatsachen,
-- und noch nicht bestätigten 
-Die mathematischen Übereinstimmungen werden vollständig dokumentiert und weiter untersucht.
+- und noch nicht bestätigten Hypothesen.
 
-Ob daraus ein Zusammenhang mit MH370, seinem Aufenthaltsort oder einem Flugschreiber abgeleitet werden kann, wird anhand zusätzlicher und unabhängig überprüfbarer Belege geprüft.
+Die mathematischen Übereinstimmungen werden dokumentiert und weiter
+untersucht.
+
+Ob daraus ein Zusammenhang mit MH370, seinem Aufenthaltsort oder einem
+Flugschreiber abgeleitet werden kann, muss anhand zusätzlicher und
+unabhängig überprüfbarer Belege geprüft werden.
 
 Sollten aus dieser Untersuchung überprüfbare Hinweise entstehen, sollen
 sie so dokumentiert werden, dass sie sachlich und unabhängig geprüft
 werden können.
 
 Die Achtung vor den Menschen an Bord und ihren Angehörigen hat Vorrang
-vor einer möglichst spektakulären Interpretation der Ergebnisse. Bitte!
-
-# Rechte und Nutzung
-
-## Version 1.0
-
-Dieses Repository enthält eine private Dokumentation mit familiären Ausgangsdaten, mathematischen Berechnungen, Untersuchungsergebnissen und Hypothesen.
-
-Das Repository wird derzeit privat geführt.
+vor einer möglichst spektakulären Interpretation der Ergebnisse.
 
 ---
 
-## 1. Keine Open-Source-Lizenz
+## 2. Öffentliche Dokumentation
+
+Dieses Repository ist für eine öffentliche Dokumentation der
+Untersuchung vorgesehen.
+
+Die öffentliche Bereitstellung dient insbesondere dazu, den
+Untersuchungsweg, die verwendeten mathematischen Methoden und die
+dokumentierten Ergebnisse nachvollziehbar und überprüfbar zu machen.
+
+Die Veröffentlichung einer Berechnung oder Hypothese bedeutet nicht,
+dass deren mögliche Interpretation bereits bestätigt wurde.
+
+---
+
+## 3. Keine Open-Source-Lizenz
 
 Für dieses Projekt wurde derzeit keine Open-Source-Lizenz erteilt.
 
-Insbesondere wird mit dieser Dokumentation keine allgemeine Erlaubnis erteilt, die enthaltenen Texte, Datensammlungen, Auswertungen oder sonstigen Projektinhalte zu kopieren, zu veröffentlichen, weiterzugeben oder als eigenes Projekt zu übernehmen.
+Die öffentliche Sichtbarkeit eines Repositorys ist nicht dasselbe wie
+die Erteilung einer Open-Source-Lizenz.
 
-Eine spätere Lizenzierung kann ausdrücklich und gesondert festgelegt werden.
+Soweit gesetzliche Rechte bestehen, wird durch die Veröffentlichung
+keine darüber hinausgehende allgemeine Erlaubnis erteilt, geschützte
+Projektinhalte als eigenes Werk oder eigenes Projekt zu übernehmen.
 
----
-
-## 2. Familiäre Ausgangsdaten
-
-Ein Teil der dokumentierten Ausgangswerte stammt aus einem privaten familiären Zusammenhang.
-
-Diese Daten werden innerhalb des Projekts ausschließlich als Grundlage der dokumentierten Untersuchung geführt.
-
-Eine Veröffentlichung des Repositorys oder einzelner Datensätze soll deshalb erst nach einer gesonderten Entscheidung über Datenschutz, Persönlichkeitsrechte und gegebenenfalls notwendige Einwilligungen erfolgen.
+Eine spätere Lizenzierung kann ausdrücklich und gesondert festgelegt
+werden.
 
 ---
 
-## 3. Projektinhalte
+## 4. Personenbezogene und familiäre Ausgangsdaten
+
+Ein Teil der dokumentierten Ausgangswerte stammt aus einem familiären
+oder personenbezogenen Zusammenhang.
+
+Personenbezogene Angaben sollen nur in dem Umfang öffentlich
+dokumentiert werden, der für den vorgesehenen Zweck vertretbar und
+rechtlich zulässig ist.
+
+Neutrale Kennungen wie `N01` bis `N23` dienen dazu, Datensätze innerhalb
+der Untersuchung eindeutig auseinanderhalten zu können, ohne in jeder
+Auswertungsdatei persönliche Bezeichnungen zu verwenden.
+
+Die Verwendung einer neutralen Kennung bedeutet jedoch nicht
+automatisch, dass ein Datensatz im datenschutzrechtlichen Sinn anonym
+ist.
+
+Soweit für einzelne Angaben Einwilligungen, Anonymisierung oder eine
+andere rechtliche Grundlage erforderlich sein sollten, bleibt dies
+gesondert zu prüfen.
+
+---
+
+## 5. Projektinhalte
 
 Die Projektdokumentation umfasst unter anderem:
 
@@ -68,62 +101,113 @@ Die Projektdokumentation umfasst unter anderem:
 - mathematische Berechnungen
 - dokumentierte Ergebnisse und Übereinstimmungen
 - Koordinatenvergleiche
-- Hypothesen
+- Hypothesen und offene Prüfpunkte
+- zusätzliches Prüfmaterial
 - Änderungsprotokolle
 
-Die Tatsache, dass mathematische Formeln oder allgemein bekannte mathematische Verfahren verwendet werden, bedeutet nicht, dass dadurch automatisch sämtliche übrigen Inhalte dieses Repositorys frei verwendbar sind.
+Allgemein bekannte mathematische Verfahren und mathematische Tatsachen
+werden durch diese Dokumentation nicht zu exklusiven Rechten des
+Projekts.
+
+Für eigene Texte, Darstellungen und sonstige möglicherweise geschützte
+Bestandteile können dagegen gesetzliche Rechte bestehen.
 
 ---
 
-## 4. KI-Unterstützung
+## 6. KI-Unterstützung
 
-Bei der Strukturierung, mathematischen Auswertung, Überprüfung und sprachlichen Dokumentation des Projekts wird ChatGPT von OpenAI als KI-Werkzeug eingesetzt.
+Bei der Strukturierung, mathematischen Auswertung, Überprüfung und
+sprachlichen Dokumentation des Projekts wird ChatGPT von OpenAI als
+KI-Werkzeug eingesetzt.
 
 Die Nutzung von ChatGPT bedeutet nicht, dass OpenAI:
 
 - Eigentümer dieses Projekts ist,
 - offizieller Projektpartner ist,
 - die dokumentierten Hypothesen bestätigt,
+- die Untersuchung unabhängig verifiziert hat,
 - oder für die Richtigkeit sämtlicher Inhalte einsteht.
 
-KI-generierte Berechnungen und Texte können Fehler enthalten und sollen deshalb nachvollziehbar dokumentiert und überprüft werden.
+KI-generierte Berechnungen und Texte können Fehler enthalten.
+
+Entscheidende Berechnungen und Aussagen sollen deshalb so dokumentiert
+werden, dass sie unabhängig nachvollzogen und überprüft werden können.
 
 ---
 
-## 5. Keine Übertragung von Rechten durch privaten Zugriff
+## 7. Externe Quellen und Materialien
 
-Ein Zugriff auf das private Repository stellt für sich allein keine allgemeine Erlaubnis zur Weiterverwendung oder Veröffentlichung der enthaltenen Inhalte dar.
+Informationen aus externen Quellen sollen als solche erkennbar bleiben.
 
-Falls später anderen Personen Zugriff gewährt wird, sollen deren Nutzungsrechte gegebenenfalls ausdrücklich festgelegt werden.
+Soweit externe Quellen für geografische, historische oder andere
+Vergleiche verwendet werden, sollen die jeweiligen Quellen
+nachvollziehbar dokumentiert werden.
 
----
-
-## 6. Spätere Veröffentlichung
-
-Vor einer möglichen öffentlichen Veröffentlichung soll gesondert geprüft werden:
-
-1. Welche Familiendaten veröffentlicht werden dürfen.
-2. Welche personenbezogenen Angaben anonymisiert oder entfernt werden sollten.
-3. Welche Teile der Dokumentation urheberrechtlich geschützt sein können.
-4. Welche Lizenz für veröffentlichbare Projektbestandteile geeignet ist.
-5. Ob unterschiedliche Bestandteile des Projekts unterschiedliche Nutzungsregeln benötigen.
-
-Bis zu dieser Entscheidung bleibt das Repository privat und ohne Open-Source-Lizenz.
+Fremde Texte, Bilder, Karten oder sonstige geschützte Materialien werden
+durch ihre Verwendung als Prüf- oder Referenzmaterial nicht automatisch
+Bestandteil eigener Rechte dieses Projekts.
 
 ---
 
-## 7. Hinweis
+## 8. Umgang mit Hypothesen
 
-Diese Datei dokumentiert die derzeit beabsichtigte Nutzung des Projekts.
+Mathematische Übereinstimmungen werden nicht automatisch als Beweis
+eines realen Zusammenhangs behandelt.
 
-Sie ist keine individuelle Rechtsberatung und ersetzt keine rechtliche Prüfung, insbesondere nicht hinsichtlich Datenschutz, Persönlichkeitsrechten oder Urheberrecht.
+Insbesondere werden Aussagen über:
+
+- MH370,
+- Menschen an Bord,
+- einen möglichen Aufenthaltsort,
+- einen möglichen Flugschreiber,
+- geografische Orte,
+- oder mögliche Ursachen und Zusammenhänge
+
+als Hypothesen gekennzeichnet, solange sie nicht durch ausreichende
+unabhängige Belege bestätigt wurden.
+
+Auch Ergebnisse, die gegen eine Hypothese sprechen, sollen dokumentiert
+und nicht entfernt werden.
+
+---
+
+## 9. Hinweise für eine unabhängige Prüfung
+
+Die öffentliche Dokumentation soll anderen ermöglichen, mathematische
+Berechnungen und dokumentierte Beobachtungen unabhängig nachzuvollziehen.
+
+Eine unabhängige Prüfung darf zu einem anderen Ergebnis oder einer
+anderen Interpretation gelangen.
+
+Korrekturen nachweisbarer Fehler werden transparent im `CHANGELOG.md`
+dokumentiert.
+
+---
+
+## 10. Rechtlicher Hinweis
+
+Diese Datei beschreibt den beabsichtigten Umgang mit dem Projekt und
+seinen Inhalten.
+
+Sie ist keine individuelle Rechtsberatung und stellt keine verbindliche
+Feststellung darüber dar, ob die Veröffentlichung jedes einzelnen
+Datensatzes oder Materials rechtlich zulässig ist.
+
+Datenschutz, Persönlichkeitsrechte, Urheberrechte und sonstige Rechte
+können je nach konkretem Inhalt gesondert zu beurteilen sein.
 
 ---
 
 ## Status
 
 **Version:** 1.0  
-**Repository:** privat  
+**Dokumentationsziel:** öffentliche und nachvollziehbare Prüfung  
 **Open-Source-Lizenz:** keine  
-**Allgemeine Weiterverwendung:** nicht freigegeben  
+**Allgemeine zusätzliche Nutzungserlaubnis:** nicht erteilt  
 **Spätere Lizenzentscheidung:** offen
+
+---
+
+Dieses Projekt dokumentiert einen Untersuchungsweg. Mathematische
+Ergebnisse, externe Tatsachen und daraus entwickelte Hypothesen werden
+voneinander getrennt behandelt.
