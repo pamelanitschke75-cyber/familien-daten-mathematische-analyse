@@ -108,4 +108,4 @@ Eine Interpretation dieser Ergebnisse wird getrennt dokumentiert.
 
 **Berechnungsstand:** Version 1.0  
 **Grundlage:** `DATEN.md`  
-**Methodik:** `METHODIK.md`
+**Methodik:** `METHODIK.md"
