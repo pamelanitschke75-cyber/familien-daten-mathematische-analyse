@@ -8,7 +8,7 @@ Alle Werte wurden mit den aktuell festgelegten Ausgangsdaten neu berechnet.
 
 ## Familiendaten
 
-| Zahlenfolge | Kürzel | mod 51 | mod 64 | 6 Bit | Ziffernsumme | Jahres-QS | Tag+Monat | Tag×Monat |
+ Zahlenfolge | Kürzel | mod 51 | mod 64 | 6 Bit | Ziffernsumme | Jahres-QS | Tag+Monat | Tag×Monat |
 |---|---|---:|---:|---|---:|---:|---:|---:|
 | 02041907 | EN | 20 | 51 | 110011 | 23 | 17 | 6 | 8 |
 | 09051910 | EN | 22 | 6 | 000110 | 25 | 11 | 14 | 45 |
