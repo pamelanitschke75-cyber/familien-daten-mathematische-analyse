@@ -1,6 +1,6 @@
 # Berechnungen
 
-**Aktueller Berechnungsstand:** Version 1.1 (vollständige Tabelle unten). Die Version 1.0 bleibt als historischer Vergleich erhalten.
+**Aktueller Berechnungsstand:** Version 1.2 (vollständige Tabelle am Ende). Die Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
 
 ## Version 1.0
 
@@ -244,3 +244,133 @@ AR ergibt bei mod 51 den Rest `24`, ebenso N18. Bei mod 64 ergibt AR `55`, bei d
 N24 erzeugt keinen gleichen mod-51- oder mod-64-Rest und keinen gleichen Tag×Monat-Wert innerhalb des aktuellen Datensatzes. Seine Ziffernsumme `21` stimmt mit Ereignis `15082023`, seine Jahres-QS `17` mit N03 und N10, und Tag+Monat `31` mit N14 überein. Diese Gleichheiten sind rechnerische Beobachtungen, keine Belege für einen realen Zusammenhang.
 
 **Berechnungsstand:** Version 1.1 · 24 + 3 Datumswerte und AR geprüft.
+
+
+---
+
+## Version 1.2 – vollständige Neuberechnung mit N25 (29.09.2026)
+
+Es wurden alle 25 Personeneinträge und alle drei getrennten Ereignis-/Paardaten mit den unveränderten Methoden der `METHODIK.md` gerechnet. Die 24 verschiedenen Familiendatumswerte wurden jeweils geprüft; N02 und N25 sind zwei Personen mit derselben Datumszahl. Alle bereits in Version 1.1 dokumentierten 24 Personenzeilen und drei Ereigniszeilen wurden rechnerisch erneut überprüft und stimmen überein.
+
+### Familiendaten: alle 25 Personen
+
+| Kennung | Zahlenfolge | mod 51 | mod 64 | 6 Bit | Ziffernsumme | Jahres-QS | Tag+Monat | Tag×Monat |
+|---|---:|---:|---:|---|---:|---:|---:|---:|
+| N01 | 18031975 | 7 | 39 | `100111` | 34 | 22 | 21 | 54 |
+| N02 | 08101997 | 35 | 45 | `101101` | 35 | 26 | 18 | 80 |
+| N03 | 02041907 | 20 | 51 | `110011` | 23 | 17 | 6 | 8 |
+| N04 | 09051910 | 22 | 6 | `000110` | 25 | 11 | 14 | 45 |
+| N05 | 05081920 | 25 | 0 | `000000` | 25 | 12 | 13 | 40 |
+| N06 | 19111921 | 28 | 49 | `110001` | 25 | 13 | 30 | 209 |
+| N07 | 23031937 | 31 | 1 | `000001` | 28 | 20 | 26 | 69 |
+| N08 | 12041937 | 21 | 17 | `010001` | 27 | 20 | 16 | 48 |
+| N09 | 18011942 | 17 | 38 | `100110` | 26 | 16 | 19 | 18 |
+| N10 | 09121952 | 41 | 32 | `100000` | 29 | 17 | 21 | 108 |
+| N11 | 02091963 | 45 | 59 | `111011` | 30 | 19 | 11 | 18 |
+| N12 | 12081965 | 14 | 45 | `101101` | 32 | 21 | 20 | 96 |
+| N13 | 16051978 | 34 | 10 | `001010` | 37 | 25 | 21 | 80 |
+| N14 | 22091978 | 2 | 10 | `001010` | 38 | 25 | 31 | 198 |
+| N15 | 04061982 | 36 | 30 | `011110` | 30 | 20 | 10 | 24 |
+| N16 | 05091984 | 42 | 16 | `010000` | 36 | 22 | 14 | 45 |
+| N17 | 16061986 | 46 | 34 | `100010` | 37 | 24 | 22 | 96 |
+| N18 | 03121989 | 24 | 5 | `000101` | 33 | 27 | 15 | 36 |
+| N19 | 25021998 | 21 | 46 | `101110` | 36 | 27 | 27 | 50 |
+| N20 | 10102011 | 33 | 59 | `111011` | 6 | 4 | 20 | 100 |
+| N21 | 06092016 | 15 | 48 | `110000` | 24 | 9 | 15 | 54 |
+| N22 | 29052022 | 25 | 54 | `110110` | 22 | 6 | 34 | 145 |
+| N23 | 24082024 | 28 | 40 | `101000` | 22 | 8 | 32 | 192 |
+| N24 | 21101970 | 6 | 18 | `010010` | 21 | 17 | 31 | 210 |
+| N25 | 08101997 | 35 | 45 | `101101` | 35 | 26 | 18 | 80 |
+
+### Ereignis- und Paardaten: alle drei Werte
+
+| Kennung | Zahlenfolge | mod 51 | mod 64 | 6 Bit | Ziffernsumme | Jahres-QS | Tag+Monat | Tag×Monat |
+|---|---:|---:|---:|---|---:|---:|---:|---:|
+| Ereignis 20041968 | 20041968 | 39 | 48 | `110000` | 30 | 24 | 24 | 80 |
+| Ereignis 13082023 | 13082023 | 13 | 39 | `100111` | 19 | 7 | 21 | 104 |
+| Ereignis 15082023 | 15082023 | 48 | 39 | `100111` | 21 | 7 | 23 | 120 |
+
+### Referenzwert AR (separat, kein Datum)
+
+- `1911 mod 51 = 24` (`1911 = 37 × 51 + 24`), gleich N18 bei derselben Methode.
+- `1911 mod 64 = 55` (`1911 = 29 × 64 + 55`); sechs Bit: `110111`.
+- Ziffernsumme: `1 + 9 + 1 + 1 = 12`; gesonderte Zerlegung: `19 + 11 = 30`.
+- Zeitbezogene Differenz: `2026 - 1911 = 115`. AR ist kein Datum; Jahres-QS, Tag+Monat und Tag×Monat werden nicht auf AR angewendet.
+
+### Rechenprobe N25 = N02 (08.10.1997)
+
+- `08101997` als Ganzzahl `8101997 = 158862 × 51 + 35` → mod 51 `35`.
+- `8101997 = 126593 × 64 + 45` → mod 64 `45` → `101101`.
+- Ziffernsumme: `0+8+1+0+1+9+9+7 = 35`; Jahres-QS: `1+9+9+7 = 26`.
+- Tag+Monat: `8+10 = 18`; Tag×Monat: `8×10 = 80`.
+
+### Sämtliche Wiederholungsgruppen (25 Personen + 3 Ereignisse)
+
+Die Tabellen enthalten je Methode alle Ergebniswerte, die mindestens zweimal vorkommen. Derselbe Zahlenwert für N02 und N25 ist erwartbar, weil beide dasselbe vollständige Datum haben. Die sechs Bit kodieren den mod-64-Wert lediglich erneut.
+
+#### mod 51
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 21 | N08, N19 |
+| 25 | N05, N22 |
+| 28 | N06, N23 |
+| 35 | N02, N25 |
+
+#### mod 64 / sechs Bit
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 10 | N13, N14 |
+| 39 | N01, Ereignis 13082023, Ereignis 15082023 |
+| 45 | N02, N12, N25 |
+| 48 | N21, Ereignis 20041968 |
+| 59 | N11, N20 |
+
+#### Ziffernsumme
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 21 | N24, Ereignis 15082023 |
+| 22 | N22, N23 |
+| 25 | N04, N05, N06 |
+| 30 | N11, N15, Ereignis 20041968 |
+| 35 | N02, N25 |
+| 36 | N16, N19 |
+| 37 | N13, N17 |
+
+#### Jahresziffernsumme
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 7 | Ereignis 13082023, Ereignis 15082023 |
+| 17 | N03, N10, N24 |
+| 20 | N07, N08, N15 |
+| 22 | N01, N16 |
+| 24 | N17, Ereignis 20041968 |
+| 25 | N13, N14 |
+| 26 | N02, N25 |
+| 27 | N18, N19 |
+
+#### Tag+Monat
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 14 | N04, N16 |
+| 15 | N18, N21 |
+| 18 | N02, N25 |
+| 20 | N12, N20 |
+| 21 | N01, N10, N13, Ereignis 13082023 |
+| 31 | N14, N24 |
+
+#### Tag×Monat
+
+| Wert | Gleiche Datensätze |
+|---:|---|
+| 18 | N09, N11 |
+| 45 | N04, N16 |
+| 54 | N01, N21 |
+| 80 | N02, N13, N25, Ereignis 20041968 |
+| 96 | N12, N17 |
+
+**Berechnungsstand:** Version 1.2 · 25 Personen, drei Ereigniswerte und AR getrennt geprüft. Die Familienordnung ist noch nicht endgültig nummeriert.
