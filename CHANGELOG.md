@@ -136,3 +136,14 @@ Falls später eine tatsächliche Korrektur eines Ausgangsdatums erforderlich wir
 - Die vorhandene Methodik und der offene Status geografischer bzw. sachlicher Hypothesen bleiben erhalten.
 
 **Aktueller Dokumentationsstand:** Version 1.2; Rechnungen vollständig, Familienordnung und unabhängige Hypothesenprüfung offen.
+
+
+---
+
+## Version 1.2.1 – Personenkennungen N → P (29.09.2026)
+
+Die bisherige Arbeitskennung **N01–N25** wurde in den aktuellen Projektdateien indexgleich in **P01–P25** umbenannt. Die eindeutige Zuordnung lautet für jedes zweistellige `xx`: `Nxx → Pxx`, beispielsweise `N01 → P01`, `N02 → P02`, `N24 → P24` und `N25 → P25`. Frühere Git-Commits und die vorstehenden historischen Einträge behalten die ursprüngliche Bezeichnung, damit die Entwicklung nachvollziehbar bleibt. Historische Berechnungstabellen wurden nur in der Anzeige auf P-Kennungen vereinheitlicht.
+
+Es wurden **keine** Datumswerte, Berechnungen, Gruppenzugehörigkeiten oder Personenbeziehungen geändert. P bezeichnet den Personendatensatz. Die Nummerierung ist weiterhin eine vorläufige Arbeitsfolge und noch keine endgültig sortierte Familienordnung; weitere Personen können ergänzt werden.
+
+**Aktueller Kennungsstand:** 1.2.1 · P01–P25. **Rechenstand:** 1.2.
