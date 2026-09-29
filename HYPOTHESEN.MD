@@ -1,6 +1,8 @@
 
 # Hypothesen und offene Prüfpunkte
 
+**Aktueller Prüfstand:** Version 1.1 (unten). Version 1.0 bleibt dokumentiert.
+
 ## Version 1.0
 
 Diese Datei enthält mögliche Zusammenhänge und offene Fragestellungen, die sich aus der Untersuchung ergeben.
@@ -41,3 +43,13 @@ Auch Ergebnisse, die gegen eine Hypothese sprechen, bleiben dokumentiert.
 ---
 
 **Hypothesenstand:** Version 1.0
+
+---
+
+## Neubewertung Version 1.1 – N24
+
+Die Neuberechnung liefert zusätzliche Gleichheiten bei Ziffernsumme, Jahresziffernsumme und Tag+Monat. Mod-51- und Mod-64-Rest sowie Tag×Monat von N24 sind innerhalb der aktuellen Datumswerte einmalig. Eine gleiche Zahl aus einem anderen Rechenweg wird nicht als unabhängiger Beleg gezählt.
+
+Für eine tatsächliche Verbindung zu Area 51, einer „Black Box“ oder MH370 fehlt weiterhin eine unabhängig überprüfbare Quelle. Auch der offene Prüfpunkt zum historischen Brief und dem Wert `115` wird durch N24 nicht beantwortet.
+
+**Status:** Hypothesen offen; keine neue Tatsachenbehauptung aus dem zusätzlichen Datum abgeleitet.
