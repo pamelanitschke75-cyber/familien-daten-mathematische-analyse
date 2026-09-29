@@ -153,19 +153,19 @@ Diese Datei trennt mathematische Ergebnisse, geografische Vergleiche und weiterg
 
 ---
 
-## Version 1.1 – Prüfung nach Ergänzung von N24
+## Version 1.1 – Prüfung nach Ergänzung von P24
 
-Alle 24 Familiendaten, drei Ereignis-/Paardaten und AR wurden nach den unveränderten Rechenregeln erneut ausgewertet (Einzelwerte in `BERECHNUNGEN.md`). N24 liefert mod 51 = `6`, mod 64 = `18`, Ziffernsumme = `21`, Jahres-QS = `17`, Tag+Monat = `31` und Tag×Monat = `210`. Das sind Werte der **Stufe A**, also mathematische Ergebnisse ohne geografische Zuordnung.
+Alle 24 Familiendaten, drei Ereignis-/Paardaten und AR wurden nach den unveränderten Rechenregeln erneut ausgewertet (Einzelwerte in `BERECHNUNGEN.md`). P24 liefert mod 51 = `6`, mod 64 = `18`, Ziffernsumme = `21`, Jahres-QS = `17`, Tag+Monat = `31` und Tag×Monat = `210`. Das sind Werte der **Stufe A**, also mathematische Ergebnisse ohne geografische Zuordnung.
 
-Der eigenständige Referenzwert AR ergibt weiterhin `2026 - 1911 = 115`. Die Ergänzung von N24 verändert diese Rechnung nicht. Für keinen neuen Wert ist in diesem Repository ein vorab bestimmter Vergleichsort mit überprüfbarer Koordinatenquelle und Format dokumentiert; ein neuer Nachweis der Stufe B oder C ergibt sich daher aus der Neuberechnung nicht. Die möglichen Bezüge zu Area 51, einer „Black Box“ oder MH370 bleiben offene Hypothesen.
+Der eigenständige Referenzwert AR ergibt weiterhin `2026 - 1911 = 115`. Die Ergänzung von P24 verändert diese Rechnung nicht. Für keinen neuen Wert ist in diesem Repository ein vorab bestimmter Vergleichsort mit überprüfbarer Koordinatenquelle und Format dokumentiert; ein neuer Nachweis der Stufe B oder C ergibt sich daher aus der Neuberechnung nicht. Die möglichen Bezüge zu Area 51, einer „Black Box“ oder MH370 bleiben offene Hypothesen.
 
 **Koordinatenprüfstand:** Version 1.1 · Rechenwerte aktualisiert; externe geografische Prüfung offen.
 
 
 ---
 
-## Version 1.2 – Prüfung nach Ergänzung von N25
+## Version 1.2 – Prüfung nach Ergänzung von P25
 
-N25 hat dieselbe Datumszahl wie N02. Die nach unveränderter Methode berechneten Werte (mod 51 = `35`, mod 64 = `45`, Ziffernsumme = `35`, Jahres-QS = `26`, Tag+Monat = `18`, Tag×Monat = `80`) sind rechnerisch geprüft, aber keine unabhängige zweite geografische Beobachtung. Die AR-Differenz `2026 - 1911 = 115` bleibt unverändert. Es liegt kein neuer vorab definierter Ort mit überprüfbarer Quelle und Koordinatenformat vor; die bisherigen offenen Prüfungen bleiben offen.
+P25 hat dieselbe Datumszahl wie P02. Die nach unveränderter Methode berechneten Werte (mod 51 = `35`, mod 64 = `45`, Ziffernsumme = `35`, Jahres-QS = `26`, Tag+Monat = `18`, Tag×Monat = `80`) sind rechnerisch geprüft, aber keine unabhängige zweite geografische Beobachtung. Die AR-Differenz `2026 - 1911 = 115` bleibt unverändert. Es liegt kein neuer vorab definierter Ort mit überprüfbarer Quelle und Koordinatenformat vor; die bisherigen offenen Prüfungen bleiben offen.
 
-**Koordinatenprüfstand:** Version 1.2 · Stufe A für N25 geprüft; kein neuer Nachweis der Stufen B oder C.
+**Koordinatenprüfstand:** Version 1.2 · Stufe A für P25 geprüft; kein neuer Nachweis der Stufen B oder C.
