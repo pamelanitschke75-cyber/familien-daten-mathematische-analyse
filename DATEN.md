@@ -1,6 +1,6 @@
 # Ausgangsdaten
 
-## Version 1.0
+## Version 1.1 – ergänzter Datenstand
 
 Diese Datei enthält die festgelegten Ausgangsdaten der mathematischen Untersuchung.
 
@@ -36,6 +36,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 | 06.09.2016 | 06092016 | N21 |
 | 29.05.2022 | 29052022 | N22 |
 | 24.08.2024 | 24082024 | N23 |
+| 21.10.1970 | 21101970 | N24 |
 
 ## Ergänzende Ereignis-/Paardaten
 
@@ -66,11 +67,13 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Datenstand
 
-**Version:** 1.0  
-**Status:** festgelegter Ausgangsdatensatz  
-**Anzahl Familiendatensätze:** 23  
+**Version:** 1.1  
+**Status:** ergänzter Ausgangsdatensatz  
+**Anzahl Familiendatensätze:** 24  
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
+
+N24 wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist dort noch nicht ausgewertet.
 
 ---
 
