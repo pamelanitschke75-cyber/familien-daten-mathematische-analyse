@@ -1,6 +1,6 @@
 # Familien-Daten – Mathematische Analyse
 
-## Version 1.2 – aktueller Daten- und Berechnungsstand
+## Version 1.2.1 – Personenkennungen P01–P25
 
 Dieses derzeit öffentliche Repository dokumentiert die mathematische Untersuchung einer festgelegten Sammlung von Familiendaten und ergänzenden Referenzwerten.
 
@@ -26,9 +26,9 @@ KI-generierte Berechnungen und Texte können Fehler enthalten. Entscheidende Ber
 
 ## Aktueller Datenstand
 
-`DATEN.md` enthält 25 Personen (N01–N25) mit 24 verschiedenen Familiendatumswerten, drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die aktuelle vollständige Neuberechnung steht in `BERECHNUNGEN.md`, die Neubewertung in `ERGEBNISSE.md` (jeweils Version 1.2 am Ende). Die Methoden der Version 1.0 gelten unverändert. Frühere Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
+`DATEN.md` enthält 25 Personen (P01–P25) mit 24 verschiedenen Familiendatumswerten, drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die aktuelle vollständige Neuberechnung steht in `BERECHNUNGEN.md`, die Neubewertung in `ERGEBNISSE.md` (jeweils Version 1.2 am Ende). Die Methoden der Version 1.0 und alle Rechenwerte der Version 1.2 gelten unverändert. Die redaktionell vereinheitlichten Kennungen heißen nun P01–P25; die frühere N-Bezeichnung ist im `CHANGELOG.md` zugeordnet. Frühere Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
 
-N02 und N25 sind Zwillinge mit demselben Datum. Die daraus folgenden gleichen Werte sind keine unabhängigen Datumsbeobachtungen. Die N-Kennungen sind vorläufige Arbeitskennungen; die spätere Ordnung folgt den Familienbeziehungen, nicht den Geburtstagen. Steffi soll in dieser Ordnung neben Pam und neben ihrem Zwillingsbruder stehen. Weitere Beziehungen werden erst nach Klärung zugeordnet; die Liste bleibt über N25 hinaus erweiterbar. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
+P02 und P25 sind Zwillinge mit demselben Datum. Die daraus folgenden gleichen Werte sind keine unabhängigen Datumsbeobachtungen. Die P-Kennungen sind vorläufige Arbeitskennungen; die spätere Ordnung folgt den Familienbeziehungen, nicht den Geburtstagen. Steffi soll in dieser Ordnung neben Pam und neben ihrem Zwillingsbruder stehen. Weitere Beziehungen werden erst nach Klärung zugeordnet; die Liste bleibt über P25 hinaus erweiterbar. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
 
 ## Grundsätze der Untersuchung
 
@@ -92,7 +92,7 @@ Die GitHub-Sichtbarkeit dieses Repositorys ist am 29.09.2026 **öffentlich**. Di
 
 ## Status
 
-**Version:** 1.2  
+**Version:** 1.2.1 (Kennungen; Berechnung 1.2)  
 **Status:** Aktuelle Neuberechnung vollständig dokumentiert; Familienordnung noch offen; Hypothesen offen  
 **Ausgangsdaten:** 25 Personen (24 verschiedene Familiendaten), 3 Ereignisdaten und AR  
 **KI-Unterstützung:** ChatGPT von OpenAI  
@@ -100,4 +100,4 @@ Die GitHub-Sichtbarkeit dieses Repositorys ist am 29.09.2026 **öffentlich**. Di
 
 ---
 
-Version 1.0 bleibt als historische Ausgangsbasis nachvollziehbar; Version 1.1 ergänzt N24. Version 1.2 ergänzt N25 als zweite Person mit Steffis Datum und berechnet den aktuellen Bestand neu.
+Version 1.0 bleibt als historische Ausgangsbasis nachvollziehbar; Version 1.1 ergänzt P24. Version 1.2 ergänzt P25 als zweite Person mit Steffis Datum und berechnet den aktuellen Bestand neu.
