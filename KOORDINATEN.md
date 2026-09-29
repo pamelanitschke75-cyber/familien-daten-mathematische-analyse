@@ -1,5 +1,7 @@
 # Koordinatenprüfung
 
+**Aktueller Prüfstand:** Version 1.1 (unten). Version 1.0 bleibt als historischer Stand erhalten.
+
 ## Version 1.0
 
 Diese Datei dokumentiert die gesonderte Untersuchung möglicher geografischer Bezüge mathematisch berechneter Werte.
@@ -148,3 +150,13 @@ Dadurch soll eine unabhängige Person den Vergleich nachvollziehen und überprü
 ---
 
 Diese Datei trennt mathematische Ergebnisse, geografische Vergleiche und weitergehende Hypothesen voneinander.
+
+---
+
+## Version 1.1 – Prüfung nach Ergänzung von N24
+
+Alle 24 Familiendaten, drei Ereignis-/Paardaten und AR wurden nach den unveränderten Rechenregeln erneut ausgewertet (Einzelwerte in `BERECHNUNGEN.md`). N24 liefert mod 51 = `6`, mod 64 = `18`, Ziffernsumme = `21`, Jahres-QS = `17`, Tag+Monat = `31` und Tag×Monat = `210`. Das sind Werte der **Stufe A**, also mathematische Ergebnisse ohne geografische Zuordnung.
+
+Der eigenständige Referenzwert AR ergibt weiterhin `2026 - 1911 = 115`. Die Ergänzung von N24 verändert diese Rechnung nicht. Für keinen neuen Wert ist in diesem Repository ein vorab bestimmter Vergleichsort mit überprüfbarer Koordinatenquelle und Format dokumentiert; ein neuer Nachweis der Stufe B oder C ergibt sich daher aus der Neuberechnung nicht. Die möglichen Bezüge zu Area 51, einer „Black Box“ oder MH370 bleiben offene Hypothesen.
+
+**Koordinatenprüfstand:** Version 1.1 · Rechenwerte aktualisiert; externe geografische Prüfung offen.
