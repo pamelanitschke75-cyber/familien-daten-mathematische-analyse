@@ -123,3 +123,16 @@ Falls später eine tatsächliche Korrektur eines Ausgangsdatums erforderlich wir
 - Die falsche README-Angabe „privat“ wurde mit der tatsächlichen öffentlichen GitHub-Sichtbarkeit abgeglichen.
 
 **Aktueller Dokumentationsstand:** Version 1.1; Rechnungen vollständig, unabhängige Hypothesenprüfung offen.
+
+
+---
+
+## Version 1.2 – Zwillingsbruder und offene Familienordnung (29.09.2026)
+
+- N25 als eigene Person für Steffis Zwillingsbruder mit `08.10.1997 | 08101997` ergänzt. N02 und N25 sind zwei Personen mit identischem Datum; 25 Personen, aber 24 verschiedene Familiendatumswerte. Die Daten der Versionen 1.0 und 1.1 bleiben historisch nachvollziehbar.
+- Alle 25 Personen und drei Ereignis-/Paardaten mit den bestehenden Methoden neu durchgerechnet. N25 hat dieselben Werte wie N02; alle 24 vorherigen Familienzeilen und drei Ereigniszeilen wurden gegengeprüft. AR getrennt unverändert geprüft.
+- Die Wiederholungsgruppen und Interpretation der doppelten Datumszahl in `BERECHNUNGEN.md` und `ERGEBNISSE.md` aktualisiert. Die Zwillings-Doppelung zählt nicht als unabhängig beobachteter zweiter Datumswert.
+- Die anfänglich vorgeschlagene Sortierung nach Geburtsdatum wurde verworfen. Eine familienbezogene Anordnung mit Steffi neben Pam und neben ihrem Zwillingsbruder ist gewünscht. Die anderen Beziehungen und eine endgültige Neuvergabe der N-Kennungen bleiben offen; bei einer späteren Umnummerierung wird die alte-neue Zuordnung hier protokolliert. N25 ist keine Obergrenze.
+- Die vorhandene Methodik und der offene Status geografischer bzw. sachlicher Hypothesen bleiben erhalten.
+
+**Aktueller Dokumentationsstand:** Version 1.2; Rechnungen vollständig, Familienordnung und unabhängige Hypothesenprüfung offen.
