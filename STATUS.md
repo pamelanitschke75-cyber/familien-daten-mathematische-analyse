@@ -1,6 +1,15 @@
 # Projektstatus
 
-## Aktueller Stand – Version 1.1 (29.09.2026)
+## Aktueller Stand – Version 1.2 (29.09.2026)
+
+- **Ausgangsdaten:** 25 Personen (N01–N25), 24 unterschiedliche Familiendatumswerte, drei Ereignis-/Paardaten und AR. N02 und N25 haben als Zwillinge denselben Geburtstag.
+- **Rechnung:** Alle 28 Personen- und Ereigniszeilen anhand der unveränderten Methoden geprüft; der Doppelwert N02/N25 wird bei einer Auswertung unterschiedlicher Datumswerte nur einmal gezählt. Die vollständige Tabelle und alle Wiederholungsgruppen stehen in Version 1.2 von `BERECHNUNGEN.md`.
+- **Familienordnung:** Eine Sortierung nach Geburtsdatum ist verworfen. Steffi soll neben Pam und neben ihrem Zwillingsbruder stehen; weitere Beziehungen sind zu klären, bevor die N-Kennungen endgültig familienbezogen sortiert werden. Spätere Nummernänderungen brauchen eine dokumentierte alte-neue Zuordnung. Weitere Einträge über N25 hinaus sind möglich.
+- **Interpretation:** Keine unabhängige neue Orts- oder Ereignisinformation aus dem identischen Zwillingsdatum. Hypothesen, Referenzwert AR und offene externe Prüfungen bleiben gesondert.
+
+---
+
+## Historischer Stand – Version 1.1 (29.09.2026)
 
 - **Ausgangsdaten:** N01–N24, drei Ereignis-/Paardaten und Referenzwert AR in `DATEN.md`.
 - **Berechnung:** Alle 27 Datumszahlen nach den Methoden der Version 1.0 erneut geprüft; vollständige Version-1.1-Tabelle und Wiederholungen in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
