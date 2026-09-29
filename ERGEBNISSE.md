@@ -1,5 +1,7 @@
 # Ergebnisse
 
+**Aktueller Ergebnisstand:** Version 1.1 (vollständige Neubewertung unten). Version 1.0 bleibt als historischer Vergleich erhalten.
+
 ## Version 1.0
 
 ## 1. Zweck dieser Datei
@@ -164,7 +166,7 @@ Eine mögliche geografische Interpretation wird nicht in dieser Datei vorgenomme
 
 Die angewendeten Rechenverfahren erzeugen mehrere dokumentierte Wiederholungen und numerische Übereinstimmungen innerhalb der festgelegten Datensätze.
 
-Die Ergebnisse dieser Datei beruhen ausschließlich auf den in `DATEN.md` festgelegten Ausgangswerten und den in `METHODIK.md` beschriebenen Verfahren.
+Die vorangehenden Ergebnisse der Version 1.0 beruhen auf dem damaligen Stand N01 bis N23 in `DATEN.md` und den in `METHODIK.md` beschriebenen Verfahren.
 
 Die vollständigen Rechenwege befinden sich in `BERECHNUNGEN.md`.
 
@@ -186,3 +188,43 @@ Numerische Übereinstimmungen werden als Beobachtungen dokumentiert. Ob sie eine
 ---
 
 Diese Datei dokumentiert mathematische Ergebnisse und direkt beobachtbare numerische Übereinstimmungen. Interpretationen und Hypothesen werden getrennt geführt.
+
+---
+
+## Version 1.1 – Ergebnis der vollständigen Neuberechnung (29.09.2026)
+
+Die aktuelle Untersuchung umfasst **N01 bis N24 (24 Familiendaten)**, **drei Ereignis-/Paardaten** und den eigenständigen Referenzwert **AR = 1911**. `BERECHNUNGEN.md` enthält sämtliche Einzelwerte und alle Wiederholungsgruppen für jede Methode. Die vorangehenden Ergebnisse der Version 1.0 bleiben als historischer Stand mit N01 bis N23 erhalten.
+
+### Neue Ergebnisse durch N24
+
+| Methode | N24 | Vergleich im aktuellen Datensatz |
+|---|---:|---|
+| mod 51 | 6 | kein weiterer gleicher Rest |
+| mod 64 | 18 | kein weiterer gleicher Rest; sechs Bit: `010010` |
+| Ziffernsumme | 21 | gleich Ereignis `15082023` |
+| Jahresziffernsumme | 17 | gleich N03 und N10 |
+| Tag+Monat | 31 | gleich N14 |
+| Tag×Monat | 210 | kein weiterer gleicher Wert |
+
+Gleiche 6-Bit-Folgen entsprechen genau gleichen mod-64-Ergebnissen und sind keine zusätzliche unabhängige Übereinstimmung. Die Ziffernsumme `21` ist ein Vergleich zwischen einer Familienkennung und einem getrennten Ereignisdatum; sie ist **keine** Wiederholung zwischen zwei Familiendatensätzen.
+
+### Vollständige Wiederholungen in der aktuellen Datengrundlage
+
+| Methode | Gleiche Werte und beteiligte Datensätze |
+|---|---|
+| mod 51 | 21: N08/N19; 24: N18/AR (Referenzwert); 25: N05/N22; 28: N06/N23 |
+| mod 64 / sechs Bit | 10: N13/N14; 39: N01 und Ereignisse `13082023`/`15082023`; 45: N02/N12; 48: N21 und Ereignis `20041968`; 59: N11/N20 |
+| Ziffernsumme | 21: N24 und Ereignis `15082023`; 22: N22/N23; 25: N04/N05/N06; 30: N11/N15 und Ereignis `20041968`; 36: N16/N19; 37: N13/N17 |
+| Jahresziffernsumme | 7: Ereignisse `13082023`/`15082023`; 17: N03/N10/N24; 20: N07/N08/N15; 22: N01/N16; 24: N17 und Ereignis `20041968`; 25: N13/N14; 27: N18/N19 |
+| Tag+Monat | 14: N04/N16; 15: N18/N21; 20: N12/N20; 21: N01/N10/N13 und Ereignis `13082023`; 31: N14/N24 |
+| Tag×Monat | 18: N09/N11; 45: N04/N16; 54: N01/N21; 80: N02/N13 und Ereignis `20041968`; 96: N12/N17 |
+
+Der Vergleich mit AR gilt nur für dieselbe Operation; AR ist keine vierte Ereignis- oder Familienkennung. Seine Zerlegung `19 + 11 = 30` ist kein Ziffernsummen-Treffer. Alle bisherigen 23 Familiendaten und drei Ereignisdaten wurden erneut berechnet; ihre Einzelwerte stimmen mit Version 1.0 überein. N24 verändert bestehende Rechenwerte nicht, erweitert aber die oben genannten Gruppen.
+
+### Referenzwert, Koordinaten und Hypothesen
+
+Für AR bleiben `1911 mod 51 = 24` (gleich N18), `1911 mod 64 = 55` (sechs Bit `110111`), Ziffernsumme `12` und `2026 - 1911 = 115` unverändert. Der Wert `115` ist ein zeitbezogenes Rechenergebnis, keine bestätigte Koordinate.
+
+N24 liefert rechnerische Werte, aber keine unabhängige Information über einen Ort, die „Black Box“ oder MH370. Eine Übereinstimmung allein bestätigt keine der offenen Hypothesen. Historisch abweichende Datumsangaben im älteren `Codes-Projekt` werden nicht in die aktuelle Ausgangsbasis gemischt.
+
+**Ergebnisstand:** Version 1.1 · vollständig neu berechnet; weitergehende Interpretation offen.
