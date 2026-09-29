@@ -1,8 +1,8 @@
 # Familien-Daten – Mathematische Analyse
 
-## Version 1.0 – Referenzdokumentation
+## Version 1.1 – aktueller Daten- und Berechnungsstand
 
-Dieses private Repository dokumentiert die mathematische Untersuchung einer festgelegten Sammlung von Familiendaten und ergänzenden Referenzwerten.
+Dieses derzeit öffentliche Repository dokumentiert die mathematische Untersuchung einer festgelegten Sammlung von Familiendaten und ergänzenden Referenzwerten.
 
 Ziel des Projekts ist es, Ausgangsdaten, mathematische Verfahren, Berechnungen, Ergebnisse und weiterführende Hypothesen so zu dokumentieren, dass der gesamte Untersuchungsweg nachvollziehbar und reproduzierbar bleibt.
 
@@ -23,6 +23,12 @@ Die KI-Unterstützung umfasst insbesondere:
 Die Verwendung von ChatGPT bedeutet nicht, dass OpenAI dieses Projekt offiziell unterstützt, daran beteiligt ist oder die darin beschriebenen Hypothesen und Schlussfolgerungen bestätigt.
 
 KI-generierte Berechnungen und Texte können Fehler enthalten. Entscheidende Berechnungen sollen deshalb reproduzierbar dokumentiert und überprüft werden.
+
+## Aktueller Datenstand
+
+`DATEN.md` enthält 24 nummerierte Familiendaten (N01–N24), drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die vollständige Neuberechnung steht in `BERECHNUNGEN.md`, sämtliche aktuellen Wiederholungen in `ERGEBNISSE.md`. Die Methoden der Version 1.0 gelten unverändert; die Tabellen und Bewertungen tragen Version 1.1. Ältere Abschnitte der Version 1.0 bleiben als historischer Vergleich erhalten.
+
+Die zusätzliche Familienkennung erzeugt neue gleiche Werte bei Ziffernsumme, Jahresziffernsumme und Tag+Monat. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
 
 ## Grundsätze der Untersuchung
 
@@ -72,7 +78,7 @@ Die Dokumentation wird in folgende Dateien gegliedert:
 - `BERECHNUNGEN.md` – reproduzierbare Berechnungen
 - `ERGEBNISSE.md` – mathematisch festgestellte Ergebnisse und Übereinstimmungen
 - `KOORDINATEN.md` – gesonderte Untersuchung möglicher Koordinatenbezüge
-- `HYPOTHESEN.md` – Interpretationen und noch zu prüfende Annahmen
+- `HYPOTHESEN.MD` – Interpretationen und noch zu prüfende Annahmen
 - `CHANGELOG.md` – Änderungen und dokumentierte Datenkorrekturen
 - `RECHTE.md` – Hinweise zur Nutzung der privaten Daten und Dokumentation
 
@@ -80,20 +86,18 @@ Die Dokumentation wird in folgende Dateien gegliedert:
 
 Die zugrunde liegenden Daten stammen aus einem privaten familiären Zusammenhang.
 
-Das Repository wird deshalb während der Untersuchung privat geführt.
+Die GitHub-Sichtbarkeit dieses Repositorys ist am 29.09.2026 **öffentlich**. Die frühere Kennzeichnung als „privat“ war falsch. Für familiäre Angaben ist zu entscheiden, ob diese Sichtbarkeit beabsichtigt ist; neutrale Kennungen allein garantieren keine Anonymität.
 
-Eine spätere Veröffentlichung oder Freigabe einzelner Bestandteile wird gesondert entschieden.
-
-Bis eine ausdrückliche Lizenz festgelegt wurde, wird dieses Projekt nicht als Open-Source-Projekt veröffentlicht.
+Öffentliche Sichtbarkeit ist keine Open-Source-Lizenz. Eine Lizenz oder weitergehende Freigabe wurde nicht erteilt.
 
 ## Status
 
-**Version:** 1.0  
-**Status:** Private Referenzdokumentation  
-**Ausgangsdaten:** festgelegt; nachweisbare Datenkorrekturen bleiben möglich  
+**Version:** 1.1  
+**Status:** Aktuelle Neuberechnung vollständig dokumentiert; Hypothesen offen  
+**Ausgangsdaten:** 24 Familiendaten, 3 Ereignisdaten und AR  
 **KI-Unterstützung:** ChatGPT von OpenAI  
-**Repository:** privat
+**Repository:** öffentlich (GitHub-Metadaten vom 29.09.2026)
 
 ---
 
-Version 1.0 bildet die dokumentierte Ausgangsbasis für die weitere Untersuchung.
+Version 1.0 bleibt als historische Ausgangsbasis nachvollziehbar; Version 1.1 ergänzt N24 und berechnet alle aktuellen Werte neu.
