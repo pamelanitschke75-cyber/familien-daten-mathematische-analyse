@@ -1,6 +1,17 @@
 # Projektstatus
 
-## Version 1.0
+## Aktueller Stand – Version 1.1 (29.09.2026)
+
+- **Ausgangsdaten:** N01–N24, drei Ereignis-/Paardaten und Referenzwert AR in `DATEN.md`.
+- **Berechnung:** Alle 27 Datumszahlen nach den Methoden der Version 1.0 erneut geprüft; vollständige Version-1.1-Tabelle und Wiederholungen in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+- **Historie:** Version 1.0 mit N01–N23 bleibt als früherer Stand dokumentiert. Die ältere Arbeitsfassung in `Codes-Projekt` enthält abweichende, bereits korrigierte historische Angaben und darf nicht mit der aktuellen Ausgangsbasis gemischt werden.
+- **Referenzwert:** `2026 - 1911 = 115` bleibt unverändert.
+- **Koordinaten und Hypothesen:** Rechnerische Stufe A aktualisiert; keine neue unabhängig belegte geografische Zuordnung. Die historische Briefprüfung und die weitergehenden Hypothesen bleiben offen.
+- **Sichtbarkeit:** Dieses GitHub-Repository ist aktuell öffentlich. Die anderslautende alte README-Angabe wurde berichtigt; die gewünschte Sichtbarkeit familiärer Angaben muss bewusst geprüft werden.
+
+---
+
+## Historischer Stand – Version 1.0
 
 Dieses Dokument gibt einen Überblick über den aktuellen Stand der Untersuchung.
 
