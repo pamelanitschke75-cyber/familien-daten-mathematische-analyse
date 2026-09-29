@@ -1,6 +1,6 @@
 # Ergebnisse
 
-**Aktueller Ergebnisstand:** Version 1.1 (vollständige Neubewertung unten). Version 1.0 bleibt als historischer Vergleich erhalten.
+**Aktueller Ergebnisstand:** Version 1.2 (Neubewertung am Ende). Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
 
 ## Version 1.0
 
@@ -228,3 +228,18 @@ Für AR bleiben `1911 mod 51 = 24` (gleich N18), `1911 mod 64 = 55` (sechs Bit `
 N24 liefert rechnerische Werte, aber keine unabhängige Information über einen Ort, die „Black Box“ oder MH370. Eine Übereinstimmung allein bestätigt keine der offenen Hypothesen. Historisch abweichende Datumsangaben im älteren `Codes-Projekt` werden nicht in die aktuelle Ausgangsbasis gemischt.
 
 **Ergebnisstand:** Version 1.1 · vollständig neu berechnet; weitergehende Interpretation offen.
+
+
+---
+
+## Version 1.2 – Ergebnis mit N25 (29.09.2026)
+
+Der aktuelle Datensatz umfasst **25 Personen mit 24 verschiedenen Familiendatumswerten**, drei getrennte Ereignis-/Paardaten und AR = `1911`. Die vollständige Neuberechnung und sämtliche Wiederholungsgruppen stehen in `BERECHNUNGEN.md` unter Version 1.2.
+
+N25 und N02 sind Steffis Zwillingsbruder beziehungsweise Steffi. Beide tragen das Datum `08.10.1997`. Für N25 ergeben sich mod 51 = `35`, mod 64 = `45` (`101101`), Ziffernsumme = `35`, Jahres-QS = `26`, Tag+Monat = `18` und Tag×Monat = `80`. N02 hat dieselben sechs Ergebnisse. Dadurch kommt bei mod 51 die Gruppe `35: N02/N25` hinzu; bei mod 64 wächst `45: N02/N12/N25`. Die neuen Gruppen sind `35: N02/N25` (Ziffernsumme), `26: N02/N25` (Jahres-QS) und `18: N02/N25` (Tag+Monat). Die Gruppe `80` (Tag×Monat) umfasst nun N02, N13, N25 und Ereignis `20041968`. Alle übrigen Gruppen aus Version 1.1 bleiben unverändert.
+
+N02 und N25 sind **zwei Personen, aber kein zweiter unabhängiger Datumswert**. Eine Auswertung von Häufigkeiten nach Personen und eine Auswertung nach verschiedenen Datumswerten beantworten unterschiedliche Fragen. Die Doppelung darf nicht als unabhängige Bestätigung eines Musters gezählt werden. Auch bei mod 64 und seiner 6-Bit-Schreibweise liegt dieselbe eine Operation vor.
+
+AR bleibt separat: mod 51 = `24` (auch N18), mod 64 = `55`, Ziffernsumme = `12`, `2026 - 1911 = 115`. N25 liefert keinen unabhängigen Beleg zu Area 51, einer „Black Box“ oder MH370. Die Familienordnung und eine mögliche spätere Umnummerierung beeinflussen nur die Bezeichnungen, keine Rechenwerte.
+
+**Ergebnisstand:** Version 1.2 · alle Werte geprüft; Hypothesen weiter offen.
