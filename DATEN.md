@@ -73,7 +73,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-N24 wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist dort noch nicht ausgewertet.
+N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist dort noch nicht ausgewertet.
 
 ---
 
