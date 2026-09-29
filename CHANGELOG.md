@@ -109,3 +109,17 @@ Falls später eine tatsächliche Korrektur eines Ausgangsdatums erforderlich wir
 **Ausgangsdaten:** festgelegt  
 **Methodik:** festgelegt  
 **Änderungsprotokoll:** aktiv
+
+---
+
+## Version 1.1 – Ergänzung und vollständige Neuberechnung (29.09.2026)
+
+- In `DATEN.md` wurde N24 als zusätzlicher, von Pam bestätigter Familiendatensatz für die Cousine aufgenommen. Die ursprünglichen N01–N23 und alle drei Ereignisdaten bleiben unverändert.
+- Alle 24 Familiendaten und drei Ereignisdaten wurden mit den bestehenden Methoden vollständig neu berechnet; die 23 bisherigen und drei Ereignis-Einzelrechnungen stimmen mit Version 1.0 überein. AR wurde getrennt erneut geprüft.
+- N24 ergibt mod 51 = `6`, mod 64 = `18` (`010010`), Ziffernsumme = `21`, Jahres-QS = `17`, Tag+Monat = `31` und Tag×Monat = `210`. Die neuen Gleichheiten und sämtliche Wiederholungen stehen in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+- AR ergibt unverändert mod 51 = `24` (auch N18), mod 64 = `55`, Ziffernsumme = `12` sowie `2026 - 1911 = 115`. Ein Referenzwert bleibt von Familien- und Ereignisdaten getrennt.
+- Die Koordinaten- und Hypothesenprüfung wurde auf den neuen Rechenstand bezogen; es wurde kein neuer geografischer oder sachlicher Beleg gefunden.
+- Die frühere Version 1.0 und die ältere, abweichende `Codes-Projekt`-Arbeitsfassung bleiben als historische Stände erkennbar. Die Methodik wurde nicht verändert.
+- Die falsche README-Angabe „privat“ wurde mit der tatsächlichen öffentlichen GitHub-Sichtbarkeit abgeglichen.
+
+**Aktueller Dokumentationsstand:** Version 1.1; Rechnungen vollständig, unabhängige Hypothesenprüfung offen.
