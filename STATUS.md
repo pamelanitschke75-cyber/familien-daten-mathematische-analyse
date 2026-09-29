@@ -1,19 +1,21 @@
 # Projektstatus
 
-## Aktueller Stand – Version 1.2 (29.09.2026)
+## Aktueller Stand – Version 1.2.1 (29.09.2026)
 
-- **Ausgangsdaten:** 25 Personen (N01–N25), 24 unterschiedliche Familiendatumswerte, drei Ereignis-/Paardaten und AR. N02 und N25 haben als Zwillinge denselben Geburtstag.
-- **Rechnung:** Alle 28 Personen- und Ereigniszeilen anhand der unveränderten Methoden geprüft; der Doppelwert N02/N25 wird bei einer Auswertung unterschiedlicher Datumswerte nur einmal gezählt. Die vollständige Tabelle und alle Wiederholungsgruppen stehen in Version 1.2 von `BERECHNUNGEN.md`.
-- **Familienordnung:** Eine Sortierung nach Geburtsdatum ist verworfen. Steffi soll neben Pam und neben ihrem Zwillingsbruder stehen; weitere Beziehungen sind zu klären, bevor die N-Kennungen endgültig familienbezogen sortiert werden. Spätere Nummernänderungen brauchen eine dokumentierte alte-neue Zuordnung. Weitere Einträge über N25 hinaus sind möglich.
+Die Personenkennungen wurden indexgleich von N auf P umbenannt. Daten, Rechenergebnisse und die noch offene Familienordnung bleiben auf dem Stand 1.2.
+
+- **Ausgangsdaten:** 25 Personen (P01–P25), 24 unterschiedliche Familiendatumswerte, drei Ereignis-/Paardaten und AR. P02 und P25 haben als Zwillinge denselben Geburtstag.
+- **Rechnung:** Alle 28 Personen- und Ereigniszeilen anhand der unveränderten Methoden geprüft; der Doppelwert P02/P25 wird bei einer Auswertung unterschiedlicher Datumswerte nur einmal gezählt. Die vollständige Tabelle und alle Wiederholungsgruppen stehen in Version 1.2 von `BERECHNUNGEN.md`.
+- **Familienordnung:** Eine Sortierung nach Geburtsdatum ist verworfen. Steffi soll neben Pam und neben ihrem Zwillingsbruder stehen; weitere Beziehungen sind zu klären, bevor die P-Kennungen endgültig familienbezogen sortiert werden. Spätere Nummernänderungen brauchen eine dokumentierte alte-neue Zuordnung. Weitere Einträge über P25 hinaus sind möglich.
 - **Interpretation:** Keine unabhängige neue Orts- oder Ereignisinformation aus dem identischen Zwillingsdatum. Hypothesen, Referenzwert AR und offene externe Prüfungen bleiben gesondert.
 
 ---
 
 ## Historischer Stand – Version 1.1 (29.09.2026)
 
-- **Ausgangsdaten:** N01–N24, drei Ereignis-/Paardaten und Referenzwert AR in `DATEN.md`.
+- **Ausgangsdaten:** P01–P24, drei Ereignis-/Paardaten und Referenzwert AR in `DATEN.md`.
 - **Berechnung:** Alle 27 Datumszahlen nach den Methoden der Version 1.0 erneut geprüft; vollständige Version-1.1-Tabelle und Wiederholungen in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
-- **Historie:** Version 1.0 mit N01–N23 bleibt als früherer Stand dokumentiert. Die ältere Arbeitsfassung in `Codes-Projekt` enthält abweichende, bereits korrigierte historische Angaben und darf nicht mit der aktuellen Ausgangsbasis gemischt werden.
+- **Historie:** Version 1.0 mit P01–P23 bleibt als früherer Stand dokumentiert. Die ältere Arbeitsfassung in `Codes-Projekt` enthält abweichende, bereits korrigierte historische Angaben und darf nicht mit der aktuellen Ausgangsbasis gemischt werden.
 - **Referenzwert:** `2026 - 1911 = 115` bleibt unverändert.
 - **Koordinaten und Hypothesen:** Rechnerische Stufe A aktualisiert; keine neue unabhängig belegte geografische Zuordnung. Die historische Briefprüfung und die weitergehenden Hypothesen bleiben offen.
 - **Sichtbarkeit:** Dieses GitHub-Repository ist aktuell öffentlich. Die anderslautende alte README-Angabe wurde berichtigt; die gewünschte Sichtbarkeit familiärer Angaben muss bewusst geprüft werden.
