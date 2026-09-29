@@ -1,6 +1,6 @@
 # Ausgangsdaten
 
-## Version 1.1 – ergänzter Datenstand
+## Version 1.2 – ergänzter Datenstand
 
 Diese Datei enthält die festgelegten Ausgangsdaten der mathematischen Untersuchung.
 
@@ -37,6 +37,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 | 29.05.2022 | 29052022 | N22 |
 | 24.08.2024 | 24082024 | N23 |
 | 21.10.1970 | 21101970 | N24 |
+| 08.10.1997 | 08101997 | N25 |
 
 ## Ergänzende Ereignis-/Paardaten
 
@@ -56,7 +57,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Regeln für die Ausgangsdaten
 
-1. N01 bis N23 bilden die Ausgangsbasis der Version 1.0; N24 wurde in Version 1.1 als neuer Wert ergänzt.
+1. N01 bis N23 bilden die Ausgangsbasis der Version 1.0; N24 wurde in Version 1.1 und N25 in Version 1.2 ergänzt.
 2. Werte werden nicht verändert, um mathematische Ergebnisse passend zu machen.
 3. Es werden keine fehlenden Werte ergänzt oder erfunden.
 4. Sollte sich später herausstellen, dass ein Datum ursprünglich falsch notiert wurde, darf die tatsächliche Angabe korrigiert werden.
@@ -67,13 +68,17 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Datenstand
 
-**Version:** 1.1  
+**Version:** 1.2  
 **Status:** ergänzter Ausgangsdatensatz  
-**Anzahl Familiendatensätze:** 24  
+**Anzahl Familiendatensätze:** 25 Personen, 24 verschiedene Datumswerte  
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist in `BERECHNUNGEN.md` und `ERGEBNISSE.md` der Version 1.1 vollständig ausgewertet. Die historische Version 1.0 bleibt als Vergleich erhalten.
+N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. N25 bezeichnet Steffis Zwillingsbruder; er hat denselben Geburtstag wie Steffi (N02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (N01–N23) und 1.1 (N01–N24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+
+### Familienordnung und Kennungen
+
+Die N-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Steffi neben Pam und neben ihrem Zwillingsbruder stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über N25 hinaus.
 
 ---
 
@@ -84,7 +89,7 @@ Diese Datei dokumentiert ausschließlich die Ausgangsdaten. Mathematische Berech
 Für zeitabhängige Vergleichsrechnungen wird das Kalenderjahr verwendet,
 in dem die Untersuchung durchgeführt wurde.
 
-Für die Versionen 1.0 und 1.1 ist dies:
+Für die Versionen 1.0, 1.1 und 1.2 ist dies:
 
 `2026`
 
