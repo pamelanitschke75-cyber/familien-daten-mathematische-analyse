@@ -1,6 +1,6 @@
 # Rechte, Nutzung und verantwortungsvoller Umgang
 
-## Version 1.0
+## Version 1.1 – Kennungsbereich aktualisiert
 
 ## 1. Zweck und verantwortungsvoller Umgang
 
@@ -78,7 +78,7 @@ Personenbezogene Angaben sollen nur in dem Umfang öffentlich
 dokumentiert werden, der für den vorgesehenen Zweck vertretbar und
 rechtlich zulässig ist.
 
-Neutrale Kennungen wie `N01` bis `N23` dienen dazu, Datensätze innerhalb
+Neutrale Kennungen wie `N01` bis `N24` dienen dazu, Datensätze innerhalb
 der Untersuchung eindeutig auseinanderhalten zu können, ohne in jeder
 Auswertungsdatei persönliche Bezeichnungen zu verwenden.
 
@@ -200,7 +200,7 @@ können je nach konkretem Inhalt gesondert zu beurteilen sein.
 
 ## Status
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Dokumentationsziel:** öffentliche und nachvollziehbare Prüfung  
 **Open-Source-Lizenz:** keine  
 **Allgemeine zusätzliche Nutzungserlaubnis:** nicht erteilt  
