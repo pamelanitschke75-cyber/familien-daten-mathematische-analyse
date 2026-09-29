@@ -56,7 +56,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Regeln für die Ausgangsdaten
 
-1. Die hier dokumentierten Werte bilden die Ausgangsbasis der Version 1.0.
+1. N01 bis N23 bilden die Ausgangsbasis der Version 1.0; N24 wurde in Version 1.1 als neuer Wert ergänzt.
 2. Werte werden nicht verändert, um mathematische Ergebnisse passend zu machen.
 3. Es werden keine fehlenden Werte ergänzt oder erfunden.
 4. Sollte sich später herausstellen, dass ein Datum ursprünglich falsch notiert wurde, darf die tatsächliche Angabe korrigiert werden.
@@ -73,7 +73,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist dort noch nicht ausgewertet.
+N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. Die Berechnungen und Ergebnisse der Version 1.0 beziehen sich weiterhin auf N01 bis N23; N24 ist in `BERECHNUNGEN.md` und `ERGEBNISSE.md` der Version 1.1 vollständig ausgewertet. Die historische Version 1.0 bleibt als Vergleich erhalten.
 
 ---
 
@@ -84,7 +84,7 @@ Diese Datei dokumentiert ausschließlich die Ausgangsdaten. Mathematische Berech
 Für zeitabhängige Vergleichsrechnungen wird das Kalenderjahr verwendet,
 in dem die Untersuchung durchgeführt wurde.
 
-Für Version 1.0 ist dies:
+Für die Versionen 1.0 und 1.1 ist dies:
 
 `2026`
 
