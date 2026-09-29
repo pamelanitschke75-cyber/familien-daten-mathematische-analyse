@@ -1,43 +1,43 @@
 # Ausgangsdaten
 
-## Version 1.2 – ergänzter Datenstand
+## Version 1.2.1 – Kennungen P01–P25
 
 Diese Datei enthält die festgelegten Ausgangsdaten der mathematischen Untersuchung.
 
 Die Datumswerte werden für die Berechnungen im Format `TTMMJJJJ` verwendet. Führende Nullen bleiben erhalten.
 
-Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung angegeben wurden.
+Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung angegeben wurden. Die Kennung `P` bezeichnet einen Personendatensatz. Beim redaktionellen Wechsel von N zu P bleibt jede zweistellige Nummer beim selben Datum; die alte Bezeichnung und die Zuordnung stehen im `CHANGELOG.md`.
 
 
 ## Familiendaten
 
 | Datum | Zahlenfolge | Kennung |
 |---|---:|---|
-| 18.03.1975 | 18031975 | N01 |
-| 08.10.1997 | 08101997 | N02 |
-| 02.04.1907 | 02041907 | N03 |
-| 09.05.1910 | 09051910 | N04 |
-| 05.08.1920 | 05081920 | N05 |
-| 19.11.1921 | 19111921 | N06 |
-| 23.03.1937 | 23031937 | N07 |
-| 12.04.1937 | 12041937 | N08 |
-| 18.01.1942 | 18011942 | N09 |
-| 09.12.1952 | 09121952 | N10 |
-| 02.09.1963 | 02091963 | N11 |
-| 12.08.1965 | 12081965 | N12 |
-| 16.05.1978 | 16051978 | N13 |
-| 22.09.1978 | 22091978 | N14 |
-| 04.06.1982 | 04061982 | N15 |
-| 05.09.1984 | 05091984 | N16 |
-| 16.06.1986 | 16061986 | N17 |
-| 03.12.1989 | 03121989 | N18 |
-| 25.02.1998 | 25021998 | N19 |
-| 10.10.2011 | 10102011 | N20 |
-| 06.09.2016 | 06092016 | N21 |
-| 29.05.2022 | 29052022 | N22 |
-| 24.08.2024 | 24082024 | N23 |
-| 21.10.1970 | 21101970 | N24 |
-| 08.10.1997 | 08101997 | N25 |
+| 18.03.1975 | 18031975 | P01 |
+| 08.10.1997 | 08101997 | P02 |
+| 02.04.1907 | 02041907 | P03 |
+| 09.05.1910 | 09051910 | P04 |
+| 05.08.1920 | 05081920 | P05 |
+| 19.11.1921 | 19111921 | P06 |
+| 23.03.1937 | 23031937 | P07 |
+| 12.04.1937 | 12041937 | P08 |
+| 18.01.1942 | 18011942 | P09 |
+| 09.12.1952 | 09121952 | P10 |
+| 02.09.1963 | 02091963 | P11 |
+| 12.08.1965 | 12081965 | P12 |
+| 16.05.1978 | 16051978 | P13 |
+| 22.09.1978 | 22091978 | P14 |
+| 04.06.1982 | 04061982 | P15 |
+| 05.09.1984 | 05091984 | P16 |
+| 16.06.1986 | 16061986 | P17 |
+| 03.12.1989 | 03121989 | P18 |
+| 25.02.1998 | 25021998 | P19 |
+| 10.10.2011 | 10102011 | P20 |
+| 06.09.2016 | 06092016 | P21 |
+| 29.05.2022 | 29052022 | P22 |
+| 24.08.2024 | 24082024 | P23 |
+| 21.10.1970 | 21101970 | P24 |
+| 08.10.1997 | 08101997 | P25 |
 
 ## Ergänzende Ereignis-/Paardaten
 
@@ -57,7 +57,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Regeln für die Ausgangsdaten
 
-1. N01 bis N23 bilden die Ausgangsbasis der Version 1.0; N24 wurde in Version 1.1 und N25 in Version 1.2 ergänzt.
+1. P01 bis P23 bilden die Ausgangsbasis der Version 1.0; P24 wurde in Version 1.1 und P25 in Version 1.2 ergänzt.
 2. Werte werden nicht verändert, um mathematische Ergebnisse passend zu machen.
 3. Es werden keine fehlenden Werte ergänzt oder erfunden.
 4. Sollte sich später herausstellen, dass ein Datum ursprünglich falsch notiert wurde, darf die tatsächliche Angabe korrigiert werden.
@@ -68,17 +68,17 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 
 ## Datenstand
 
-**Version:** 1.2  
+**Version:** 1.2.1 (Kennungen; Datums- und Rechenstand 1.2)  
 **Status:** ergänzter Ausgangsdatensatz  
 **Anzahl Familiendatensätze:** 25 Personen, 24 verschiedene Datumswerte  
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-N24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. N25 bezeichnet Steffis Zwillingsbruder; er hat denselben Geburtstag wie Steffi (N02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (N01–N23) und 1.1 (N01–N24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+P24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. P25 bezeichnet Steffis Zwillingsbruder; er hat denselben Geburtstag wie Steffi (P02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (P01–P23) und 1.1 (P01–P24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
 
 ### Familienordnung und Kennungen
 
-Die N-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Steffi neben Pam und neben ihrem Zwillingsbruder stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über N25 hinaus.
+Die P-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Steffi neben Pam und neben ihrem Zwillingsbruder stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über P25 hinaus.
 
 ---
 
