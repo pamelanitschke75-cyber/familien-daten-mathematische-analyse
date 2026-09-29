@@ -1,6 +1,6 @@
 # Familien-Daten – Mathematische Analyse
 
-## Version 1.1 – aktueller Daten- und Berechnungsstand
+## Version 1.2 – aktueller Daten- und Berechnungsstand
 
 Dieses derzeit öffentliche Repository dokumentiert die mathematische Untersuchung einer festgelegten Sammlung von Familiendaten und ergänzenden Referenzwerten.
 
@@ -26,9 +26,9 @@ KI-generierte Berechnungen und Texte können Fehler enthalten. Entscheidende Ber
 
 ## Aktueller Datenstand
 
-`DATEN.md` enthält 24 nummerierte Familiendaten (N01–N24), drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die vollständige Neuberechnung steht in `BERECHNUNGEN.md`, sämtliche aktuellen Wiederholungen in `ERGEBNISSE.md`. Die Methoden der Version 1.0 gelten unverändert; die Tabellen und Bewertungen tragen Version 1.1. Ältere Abschnitte der Version 1.0 bleiben als historischer Vergleich erhalten.
+`DATEN.md` enthält 25 Personen (N01–N25) mit 24 verschiedenen Familiendatumswerten, drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die aktuelle vollständige Neuberechnung steht in `BERECHNUNGEN.md`, die Neubewertung in `ERGEBNISSE.md` (jeweils Version 1.2 am Ende). Die Methoden der Version 1.0 gelten unverändert. Frühere Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
 
-Die zusätzliche Familienkennung erzeugt neue gleiche Werte bei Ziffernsumme, Jahresziffernsumme und Tag+Monat. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
+N02 und N25 sind Zwillinge mit demselben Datum. Die daraus folgenden gleichen Werte sind keine unabhängigen Datumsbeobachtungen. Die N-Kennungen sind vorläufige Arbeitskennungen; die spätere Ordnung folgt den Familienbeziehungen, nicht den Geburtstagen. Steffi soll in dieser Ordnung neben Pam und neben ihrem Zwillingsbruder stehen. Weitere Beziehungen werden erst nach Klärung zugeordnet; die Liste bleibt über N25 hinaus erweiterbar. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
 
 ## Grundsätze der Untersuchung
 
@@ -92,12 +92,12 @@ Die GitHub-Sichtbarkeit dieses Repositorys ist am 29.09.2026 **öffentlich**. Di
 
 ## Status
 
-**Version:** 1.1  
-**Status:** Aktuelle Neuberechnung vollständig dokumentiert; Hypothesen offen  
-**Ausgangsdaten:** 24 Familiendaten, 3 Ereignisdaten und AR  
+**Version:** 1.2  
+**Status:** Aktuelle Neuberechnung vollständig dokumentiert; Familienordnung noch offen; Hypothesen offen  
+**Ausgangsdaten:** 25 Personen (24 verschiedene Familiendaten), 3 Ereignisdaten und AR  
 **KI-Unterstützung:** ChatGPT von OpenAI  
 **Repository:** öffentlich (GitHub-Metadaten vom 29.09.2026)
 
 ---
 
-Version 1.0 bleibt als historische Ausgangsbasis nachvollziehbar; Version 1.1 ergänzt N24 und berechnet alle aktuellen Werte neu.
+Version 1.0 bleibt als historische Ausgangsbasis nachvollziehbar; Version 1.1 ergänzt N24. Version 1.2 ergänzt N25 als zweite Person mit Steffis Datum und berechnet den aktuellen Bestand neu.
