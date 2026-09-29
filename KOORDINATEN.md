@@ -160,3 +160,12 @@ Alle 24 Familiendaten, drei Ereignis-/Paardaten und AR wurden nach den unveränd
 Der eigenständige Referenzwert AR ergibt weiterhin `2026 - 1911 = 115`. Die Ergänzung von N24 verändert diese Rechnung nicht. Für keinen neuen Wert ist in diesem Repository ein vorab bestimmter Vergleichsort mit überprüfbarer Koordinatenquelle und Format dokumentiert; ein neuer Nachweis der Stufe B oder C ergibt sich daher aus der Neuberechnung nicht. Die möglichen Bezüge zu Area 51, einer „Black Box“ oder MH370 bleiben offene Hypothesen.
 
 **Koordinatenprüfstand:** Version 1.1 · Rechenwerte aktualisiert; externe geografische Prüfung offen.
+
+
+---
+
+## Version 1.2 – Prüfung nach Ergänzung von N25
+
+N25 hat dieselbe Datumszahl wie N02. Die nach unveränderter Methode berechneten Werte (mod 51 = `35`, mod 64 = `45`, Ziffernsumme = `35`, Jahres-QS = `26`, Tag+Monat = `18`, Tag×Monat = `80`) sind rechnerisch geprüft, aber keine unabhängige zweite geografische Beobachtung. Die AR-Differenz `2026 - 1911 = 115` bleibt unverändert. Es liegt kein neuer vorab definierter Ort mit überprüfbarer Quelle und Koordinatenformat vor; die bisherigen offenen Prüfungen bleiben offen.
+
+**Koordinatenprüfstand:** Version 1.2 · Stufe A für N25 geprüft; kein neuer Nachweis der Stufen B oder C.
