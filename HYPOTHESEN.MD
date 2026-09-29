@@ -1,7 +1,7 @@
 
 # Hypothesen und offene Prüfpunkte
 
-**Aktueller Prüfstand:** Version 1.1 (unten). Version 1.0 bleibt dokumentiert.
+**Aktueller Prüfstand:** Version 1.2 (am Ende). Versionen 1.0 und 1.1 bleiben dokumentiert.
 
 ## Version 1.0
 
@@ -53,3 +53,12 @@ Die Neuberechnung liefert zusätzliche Gleichheiten bei Ziffernsumme, Jahresziff
 Für eine tatsächliche Verbindung zu Area 51, einer „Black Box“ oder MH370 fehlt weiterhin eine unabhängig überprüfbare Quelle. Auch der offene Prüfpunkt zum historischen Brief und dem Wert `115` wird durch N24 nicht beantwortet.
 
 **Status:** Hypothesen offen; keine neue Tatsachenbehauptung aus dem zusätzlichen Datum abgeleitet.
+
+
+---
+
+## Neubewertung Version 1.2 – N25
+
+N25 ist eine zweite Person mit demselben Datum wie N02. Alle daraus folgenden identischen Rechenergebnisse sind durch die gleiche Eingabe erklärt und liefern keinen unabhängigen zusätzlichen Hinweis auf Area 51, eine „Black Box“ oder MH370. Die bestehenden Hypothesen und die Briefprüfung zu `115` bleiben offen. Eine spätere Änderung der N-Reihenfolge nach Familienbeziehungen würde die Zahlenwerte selbst nicht ändern.
+
+**Status:** Hypothesen offen; keine neue Tatsachenbehauptung aus dem Zwillingsdatum.
