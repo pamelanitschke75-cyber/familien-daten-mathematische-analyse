@@ -108,10 +108,10 @@ Diese Datei dient der nachvollziehbaren Dokumentation zusätzlichen Prüfmateria
 
 ## Aussage zur Entstehung des Prüfmaterials
 
-### Aussage von Steffi
+### Aussage von Person P02
 
-Steffi berichtete unabhängig von der späteren mathematischen Auswertung,
-dass Pam die betreffenden Zahlen zunächst auf einem Zettel notiert hatte
+Person P02 berichtete unabhängig von der späteren mathematischen Auswertung,
+dass auftraggebende Person die betreffenden Zahlen zunächst auf einem Zettel notiert hatte
 und sich bereits mit diesen Zahlen beschäftigte.
 
 Nach ihrer Erinnerung erfolgte die spätere Suche im Internet erst danach.
