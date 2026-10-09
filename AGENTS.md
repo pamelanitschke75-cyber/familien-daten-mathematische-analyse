@@ -62,3 +62,15 @@ Ein Worker-Ergebnis allein ist kein vollständiger Ende-zu-Ende-Nachweis, wenn d
 Vor Abschluss Änderungen und Dokumentation zurücklesen und auf Widersprüche, Doppelungen und unbeabsichtigte Nebenänderungen prüfen.
 
 **Bestehendes erhalten. Nur Fehlendes ergänzen. Keine Nebenbaustellen. Keine Schutzmechanismen umgehen. Erst praktisch nachgewiesen = BESTANDEN.**
+
+## Verbindlicher Folgeauftrag: Kennungen P und S (09.10.2026)
+
+- Vor Beginn AGENTS.md vollständig lesen, berücksichtigen und ausdrücklich bestätigen.
+- **P vor S**: P bezeichnet Pams Familienseite, S Steffis Familienseite. In der öffentlichen technischen Darstellung möglichst nur neutrale Kennungen P/S verwenden; die Namen Pam und Steffi bleiben ausschließlich an den bereits zuvor sachlich vorhandenen Stellen zulässig. Andere Privatpersonen nicht namentlich nennen.
+- Bestehende P01–P25 sind historische, vorläufige Arbeitskennungen, **keine** nachgewiesene P/S-Zuordnung. Keine Gruppenzugehörigkeit oder Nummerierung erraten; fehlende Bestätigungen gezielt zurückmelden.
+- Alle 25 Datensätze und drei Ereigniswerte, AR, historische N→P-Zuordnung, Rechenwerte, Methoden, Quellen und frühere Versionen bewahren. Keine Datumswerte ändern, keine historischen Nachweise löschen, keine Git-Historie umschreiben.
+- Bestehende Dokumente (README.md, DATEN.md, BERECHNUNGEN.md, ERGEBNISSE.md, STATUS.md, CHANGELOG.md und betroffene Verweise) konsistent aktualisieren, sobald Einzelzuordnungen autorisiert feststehen; alte→neue Kennungen vollständig und eindeutig nachvollziehbar halten.
+- README-Überschrift sofort wahrheitsgemäß als **„Personenkennungen P und S – Zuordnung in Bearbeitung“** führen, nicht als bereits fertig umgestellte Daten ausgeben. Versionsstand 1.2.1 und Berechnungsstand 1.2 als historischen Ist-Stand korrekt angeben.
+- Vor Änderungen und Abschluss öffentliche personenbezogene Angaben prüfen: fremde Namen nicht veröffentlichen, bereits erlaubte Namen Pam/Steffi nur im bisherigen sachlichen Kontext; beachten, dass vollständige Datumswerte und alte Git-Versionen weiter identifizierend sein können. Kein eigenmächtiges Löschen oder History-Rewrite.
+- Keine neue Branch, kein zweiter PR, keine unnötige Datei oder Doppelarbeit. Bestehende passende Arbeitsstruktur nutzen; unabhängige Arbeiten dürfen koordiniert parallel laufen.
+- Nach Umsetzung Querverweise, Tabellen, Anzahl und eindeutige Zuordnung, Rechnungen, historische Vergleichbarkeit und Datenschutz prüfen; geänderte Dateien zurücklesen. Nur nach tatsächlicher Prüfung BESTANDEN melden, sonst NOCH OFFEN mit konkretem Grund.
