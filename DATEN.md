@@ -74,11 +74,11 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-P24 bezeichnet die Cousine und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. P25 bezeichnet Steffis Zwillingsbruder; er hat denselben Geburtstag wie Steffi (P02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (P01–P23) und 1.1 (P01–P24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+P24 bezeichnet einen weiteren Personendatensatz und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. P25 bezeichnet Person P25; er hat denselben Geburtstag wie Person P02 (P02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (P01–P23) und 1.1 (P01–P24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
 
 ### Familienordnung und Kennungen
 
-Die P-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Steffi neben Pam und neben ihrem Zwillingsbruder stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über P25 hinaus.
+Die P-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Person P02 neben auftraggebende Person und neben ihrem zweiten Personendatensatz mit identischem Datum stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über P25 hinaus.
 
 ---
 
