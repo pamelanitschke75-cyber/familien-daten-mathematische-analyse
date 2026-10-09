@@ -16,7 +16,7 @@ Die Personenkennungen wurden indexgleich von N auf P umbenannt. Daten, Rechenerg
 
 - **Ausgangsdaten:** 25 Personen (P01–P25), 24 unterschiedliche Familiendatumswerte, drei Ereignis-/Paardaten und AR. P02 und P25 haben als Zwillinge denselben Geburtstag.
 - **Rechnung:** Alle 28 Personen- und Ereigniszeilen anhand der unveränderten Methoden geprüft; der Doppelwert P02/P25 wird bei einer Auswertung unterschiedlicher Datumswerte nur einmal gezählt. Die vollständige Tabelle und alle Wiederholungsgruppen stehen in Version 1.2 von `BERECHNUNGEN.md`.
-- **Familienordnung:** Eine Sortierung nach Geburtsdatum ist verworfen. Person P02 soll neben auftraggebende Person und neben ihrem zweiten Personendatensatz mit identischem Datum stehen; weitere Beziehungen sind zu klären, bevor die P-Kennungen endgültig familienbezogen sortiert werden. Spätere Nummernänderungen brauchen eine dokumentierte alte-neue Zuordnung. Weitere Einträge über P25 hinaus sind möglich.
+- **Familienordnung:** Eine Sortierung nach Geburtsdatum ist verworfen. die endgültige Kennungsordnung bleibt bis zur autorisierten Gruppenzuordnung offen; weitere Beziehungen sind zu klären, bevor die P-Kennungen endgültig familienbezogen sortiert werden. Spätere Nummernänderungen brauchen eine dokumentierte alte-neue Zuordnung. Weitere Einträge über P25 hinaus sind möglich.
 - **Interpretation:** Keine unabhängige neue Orts- oder Ereignisinformation aus dem identischen Zwillingsdatum. Hypothesen, Referenzwert AR und offene externe Prüfungen bleiben gesondert.
 
 ---
