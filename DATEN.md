@@ -78,7 +78,7 @@ P24 bezeichnet einen weiteren Personendatensatz und wurde am 29.09.2026 als neue
 
 ### Familienordnung und Kennungen
 
-Die P-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Person P02 neben auftraggebende Person und neben ihrem zweiten Personendatensatz mit identischem Datum stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über P25 hinaus.
+Die P-Kennungen sind im derzeitigen Datenstand Arbeitskennungen und noch keine endgültige familienbezogene Reihenfolge. Eine Sortierung nach Geburtstagen wurde ausdrücklich verworfen. In der späteren Familienansicht soll Steffi neben Pam und neben P25 stehen. Die übrigen Beziehungen müssen vor einer endgültigen Umnummerierung zugeordnet werden; keine weiteren Beziehungen werden aus Daten oder Zahlen abgeleitet. Bei einer späteren Änderung der Kennungen wird eine alte-neue Zuordnung im `CHANGELOG.md` dokumentiert, damit die bisherigen Rechnungen lesbar bleiben. Die Liste ist offen für weitere Personen über P25 hinaus.
 
 ---
 
