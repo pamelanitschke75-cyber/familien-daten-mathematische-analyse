@@ -111,7 +111,7 @@ Diese Datei dient der nachvollziehbaren Dokumentation zusätzlichen Prüfmateria
 ### Aussage von Person P02
 
 Person P02 berichtete unabhängig von der späteren mathematischen Auswertung,
-dass auftraggebende Person die betreffenden Zahlen zunächst auf einem Zettel notiert hatte
+dass die betreffenden Zahlen zunächst auf einem Zettel notiert hatte
 und sich bereits mit diesen Zahlen beschäftigte.
 
 Nach ihrer Erinnerung erfolgte die spätere Suche im Internet erst danach.
