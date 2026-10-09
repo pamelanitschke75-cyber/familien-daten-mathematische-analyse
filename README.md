@@ -1,6 +1,8 @@
 # Familien-Daten – Mathematische Analyse
 
-## Version 1.2.1 – Personenkennungen P01–P25
+## Personenkennungen P und S – Zuordnung in Bearbeitung
+
+**Bisheriger dokumentierter Kennungsstand:** Version 1.2.1 (P01–P25); **Rechenstand:** Version 1.2. Die vollständige P/S-Umstellung ist noch nicht nachgewiesen. P und S bezeichnen zwei Familiengruppen; die bestätigte Einzelzuordnung wird ohne Vermutungen umgesetzt. Historische Kennungen und Berechnungen bleiben nachvollziehbar.
 
 Dieses derzeit öffentliche Repository dokumentiert die mathematische Untersuchung einer festgelegten Sammlung von Familiendaten und ergänzenden Referenzwerten.
 
