@@ -114,7 +114,7 @@ Falls später eine tatsächliche Korrektur eines Ausgangsdatums erforderlich wir
 
 ## Version 1.1 – Ergänzung und vollständige Neuberechnung (29.09.2026)
 
-- In `DATEN.md` wurde N24 als zusätzlicher, von auftraggebende Person bestätigter Familiendatensatz für einen weiteren Personendatensatz aufgenommen. Die ursprünglichen N01–N23 und alle drei Ereignisdaten bleiben unverändert.
+- In `DATEN.md` wurde N24 als zusätzlicher, autorisierter Familiendatensatz als zusätzlichen Personendatensatz aufgenommen. Die ursprünglichen N01–N23 und alle drei Ereignisdaten bleiben unverändert.
 - Alle 24 Familiendaten und drei Ereignisdaten wurden mit den bestehenden Methoden vollständig neu berechnet; die 23 bisherigen und drei Ereignis-Einzelrechnungen stimmen mit Version 1.0 überein. AR wurde getrennt erneut geprüft.
 - N24 ergibt mod 51 = `6`, mod 64 = `18` (`010010`), Ziffernsumme = `21`, Jahres-QS = `17`, Tag+Monat = `31` und Tag×Monat = `210`. Die neuen Gleichheiten und sämtliche Wiederholungen stehen in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
 - AR ergibt unverändert mod 51 = `24` (auch N18), mod 64 = `55`, Ziffernsumme = `12` sowie `2026 - 1911 = 115`. Ein Referenzwert bleibt von Familien- und Ereignisdaten getrennt.
@@ -129,10 +129,10 @@ Falls später eine tatsächliche Korrektur eines Ausgangsdatums erforderlich wir
 
 ## Version 1.2 – zweiten Personendatensatz mit identischem Datum und offene Familienordnung (29.09.2026)
 
-- N25 als eigene Person für Person P25 mit `08.10.1997 | 08101997` ergänzt. N02 und N25 sind zwei Personen mit identischem Datum; 25 Personen, aber 24 verschiedene Familiendatumswerte. Die Daten der Versionen 1.0 und 1.1 bleiben historisch nachvollziehbar.
+- N25 als eigenständigen Personendatensatz mit `08.10.1997 | 08101997` ergänzt. N02 und N25 sind zwei Personen mit identischem Datum; 25 Personen, aber 24 verschiedene Familiendatumswerte. Die Daten der Versionen 1.0 und 1.1 bleiben historisch nachvollziehbar.
 - Alle 25 Personen und drei Ereignis-/Paardaten mit den bestehenden Methoden neu durchgerechnet. N25 hat dieselben Werte wie N02; alle 24 vorherigen Familienzeilen und drei Ereigniszeilen wurden gegengeprüft. AR getrennt unverändert geprüft.
 - Die Wiederholungsgruppen und Interpretation der doppelten Datumszahl in `BERECHNUNGEN.md` und `ERGEBNISSE.md` aktualisiert. Die Zwillings-Doppelung zählt nicht als unabhängig beobachteter zweiter Datumswert.
-- Die anfänglich vorgeschlagene Sortierung nach Geburtsdatum wurde verworfen. Eine familienbezogene Anordnung mit Person P02 neben auftraggebende Person und neben ihrem zweiten Personendatensatz mit identischem Datum ist gewünscht. Die anderen Beziehungen und eine endgültige Neuvergabe der N-Kennungen bleiben offen; bei einer späteren Umnummerierung wird die alte-neue Zuordnung hier protokolliert. N25 ist keine Obergrenze.
+- Die anfänglich vorgeschlagene Sortierung nach Geburtsdatum wurde verworfen. Eine familienbezogene Anordnung ist vorgesehen; die Zuordnung bleibt bis zur Bestätigung offen. Die anderen Beziehungen und eine endgültige Neuvergabe der N-Kennungen bleiben offen; bei einer späteren Umnummerierung wird die alte-neue Zuordnung hier protokolliert. N25 ist keine Obergrenze.
 - Die vorhandene Methodik und der offene Status geografischer bzw. sachlicher Hypothesen bleiben erhalten.
 
 **Aktueller Dokumentationsstand:** Version 1.2; Rechnungen vollständig, Familienordnung und unabhängige Hypothesenprüfung offen.
