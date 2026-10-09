@@ -28,7 +28,7 @@ KI-generierte Berechnungen und Texte können Fehler enthalten. Entscheidende Ber
 
 `DATEN.md` enthält 25 Personen (P01–P25) mit 24 verschiedenen Familiendatumswerten, drei getrennte Ereignis-/Paardaten und den Referenzwert AR. Die aktuelle vollständige Neuberechnung steht in `BERECHNUNGEN.md`, die Neubewertung in `ERGEBNISSE.md` (jeweils Version 1.2 am Ende). Die Methoden der Version 1.0 und alle Rechenwerte der Version 1.2 gelten unverändert. Die redaktionell vereinheitlichten Kennungen heißen nun P01–P25; die frühere N-Bezeichnung ist im `CHANGELOG.md` zugeordnet. Frühere Versionen 1.0 und 1.1 bleiben als historische Vergleiche erhalten.
 
-P02 und P25 sind Zwillinge mit demselben Datum. Die daraus folgenden gleichen Werte sind keine unabhängigen Datumsbeobachtungen. Die P-Kennungen sind vorläufige Arbeitskennungen; die spätere Ordnung folgt den Familienbeziehungen, nicht den Geburtstagen. Person P02 soll in dieser Ordnung neben auftraggebende Person und neben ihrem zweiten Personendatensatz mit identischem Datum stehen. Weitere Beziehungen werden erst nach Klärung zugeordnet; die Liste bleibt über P25 hinaus erweiterbar. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
+P02 und P25 sind Zwillinge mit demselben Datum. Die daraus folgenden gleichen Werte sind keine unabhängigen Datumsbeobachtungen. Die P-Kennungen sind vorläufige Arbeitskennungen; die spätere Ordnung folgt den Familienbeziehungen, nicht den Geburtstagen. Die endgültige Kennungsordnung bleibt bis zur autorisierten Gruppenzuordnung offen. Weitere Beziehungen werden erst nach Klärung zugeordnet; die Liste bleibt über P25 hinaus erweiterbar. Daraus folgt keine bestätigte geografische oder sachliche Verbindung.
 
 ## Grundsätze der Untersuchung
 
