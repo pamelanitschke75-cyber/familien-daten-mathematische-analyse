@@ -74,7 +74,7 @@ Die zugehörigen Kürzel werden so dokumentiert, wie sie für die Untersuchung a
 **Anzahl ergänzende Ereignis-/Paardaten:** 3  
 **Anzahl ergänzende Referenzwerte:** 1
 
-P24 bezeichnet einen weiteren Personendatensatz und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. P25 bezeichnet Person P25; er hat denselben Geburtstag wie Person P02 (P02). Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (P01–P23) und 1.1 (P01–P24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
+P24 bezeichnet einen weiteren Personendatensatz und wurde am 29.09.2026 als neuer Familiendatensatz ergänzt. P25 ist ein eigenständiger Personendatensatz mit demselben Datumswert wie P02. Beide sind eigene Personen, die Datumszahl kommt deshalb zweimal vor. Die Berechnungen und Ergebnisse der Versionen 1.0 (P01–P23) und 1.1 (P01–P24) bleiben als historische Vergleiche erhalten. Die aktuelle Auswertung der Version 1.2 steht in `BERECHNUNGEN.md` und `ERGEBNISSE.md`.
 
 ### Familienordnung und Kennungen
 
