@@ -12,7 +12,7 @@ Stand: 06.10.2026. Diese Regeln ergänzen bestehende Projekt-, Schutz- und Daten
 
 ## Rollen und Identitäten
 
-- auftraggebende Person = auftraggebende Person, der reale Mensch.
+- Auftraggebende Person = menschliche Auftraggeberrolle.
 - Frau Sol/ChatGPT = Koordinatorin.
 - Worker/Codex = technische Ausführung.
 - Slack = ausschließlich optionaler technischer Hinweis-/Rückmeldeweg.
