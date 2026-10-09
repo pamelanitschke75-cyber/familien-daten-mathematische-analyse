@@ -1,5 +1,16 @@
 # Projektstatus
 
+## Kennungszuordnung P/S – bestätigt am 09.10.2026 (Umsetzung offen)
+
+- **P** bezeichnet Pams Familienseite; **S** bezeichnet Steffis Familienseite. Diese Bedeutung ist von Pam bestätigt.
+- Die bisherigen Kennungen P01–P25 sind vorläufige Arbeitskennungen und **noch nicht** vollständig nach Familienzugehörigkeit in P/S umgestellt. Aus der bisherigen P-Kennung allein darf keine Zugehörigkeit zu Pams Seite abgeleitet werden.
+- Die einzelnen Datensätze werden nur anhand bestätigter Familienbeziehungen zugeordnet. Unklare Fälle bleiben offen; keine Zuordnung aus Datum, Berechnung oder Vermutung.
+- Vor einer Umbenennung ist eine vollständige alte-neue Kennungstabelle zu prüfen. Historische Berechnungen, Originaldaten und frühere Kennungen bleiben nachvollziehbar; keine stillschweigende Änderung von Rechenwerten.
+- Das Repository ist öffentlich: keine neuen personenbezogenen Familienbeziehungen oder privaten Identitätsdaten ohne gesonderte Freigabe veröffentlichen.
+- **Status: IN BEARBEITUNG – Definition bestätigt, Einzelzuordnung, Umstellung und Rückprüfung noch offen.**
+
+---
+
 ## Aktueller Stand – Version 1.2.1 (29.09.2026)
 
 Die Personenkennungen wurden indexgleich von N auf P umbenannt. Daten, Rechenergebnisse und die noch offene Familienordnung bleiben auf dem Stand 1.2.
