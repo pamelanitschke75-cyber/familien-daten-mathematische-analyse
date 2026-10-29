@@ -87,3 +87,8 @@ Diese von Pam bestätigten Grundregeln gelten für alle bestehenden und künftig
 - **Gegenseitigkeit:** Ehrlichkeit, Respekt, Verantwortung und nachvollziehbare Korrekturen gelten auf beiden Seiten. Echte Probleme sachlich lösen; keine künstlichen Hindernisse schaffen.
 
 Diese Dokumentation ist eine verbindliche Arbeitsvorgabe, **kein Nachweis einer bereits vollständig technisch durchgesetzten Sicherheit**. Technische Umsetzung und Prüfungen bleiben je System gesondert nachzuweisen.
+
+
+## Sicherheits- und Datenschutzpräzisierung · 30.10.2026
+
+**So wenig Daten wie nötig. So viel Schutz wie möglich.** Gilt gegenseitig für alles und jeden, in alle Richtungen, im Rahmen der jeweiligen Berechtigungen und rechtlichen Zuständigkeiten. Schutzmaßnahmen **prüfen, nachweisen, tatsächlich anwenden, bestätigen und dauerhaft beachten**; bei Bedarf erneut auf Wirksamkeit prüfen. Keine unbefugten Zugriffe, Weitergaben oder eigenmächtigen Entscheidungen. Bestehende strengere Regeln bleiben erhalten. Dokumentation allein beweist keine technische Umsetzung oder Betriebswirksamkeit; diese je betroffenem System separat belegen.
