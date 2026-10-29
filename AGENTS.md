@@ -98,7 +98,7 @@ Diese Dokumentation ist eine verbindliche Arbeitsvorgabe, **kein Nachweis einer 
 
 ## Signatur
 
-**Projekt / Idee / Entwicklung:** Pamela Christina Nitschke und Stefanie Renate Hörath  
+**Projekt / Idee / Entwicklung:** Pamela Christina Nitschke  
 **KI-Unterstützung und Dokumentation:** ChatGPT (GPT-6) – Frau Sol, KI-Assistentin von OpenAI  
 **Grundsatz:** Miteinander statt gegeneinander. Forever Together. 💜♾️  
 
