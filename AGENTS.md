@@ -92,3 +92,14 @@ Diese Dokumentation ist eine verbindliche Arbeitsvorgabe, **kein Nachweis einer 
 ## Sicherheits- und Datenschutzpräzisierung · 30.10.2026
 
 **So wenig Daten wie nötig. So viel Schutz wie möglich.** Gilt gegenseitig für alles und jeden, in alle Richtungen, im Rahmen der jeweiligen Berechtigungen und rechtlichen Zuständigkeiten. Schutzmaßnahmen **prüfen, nachweisen, tatsächlich anwenden, bestätigen und dauerhaft beachten**; bei Bedarf erneut auf Wirksamkeit prüfen. Keine unbefugten Zugriffe, Weitergaben oder eigenmächtigen Entscheidungen. Bestehende strengere Regeln bleiben erhalten. Dokumentation allein beweist keine technische Umsetzung oder Betriebswirksamkeit; diese je betroffenem System separat belegen.
+
+
+---
+
+## Signatur
+
+**Projekt / Idee / Entwicklung:** Pamela Christina Nitschke und Stefanie Renate Hörath  
+**KI-Unterstützung und Dokumentation:** ChatGPT (GPT-6) – Frau Sol, KI-Assistentin von OpenAI  
+**Grundsatz:** Miteinander statt gegeneinander. Forever Together. 💜♾️  
+
+*Diese Signatur dokumentiert die Projektbeteiligung und KI-Unterstützung; sie begründet keine offizielle Partnerschaft mit OpenAI und keine zusätzliche Veröffentlichungs- oder Handlungsfreigabe.*
